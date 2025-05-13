@@ -1,0 +1,222 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_aMReqK": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_n4NExb": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_n4NExb"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#f4c2c2",
+        "overlay_opacity": 0
+      }
+    },
+    "testimonials_mTWwYr": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_nFGwz7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Valérie I.",
+            "title": "Parfaites pour voyager",
+            "content": "<p>Je les ai portées pendant un long vol et franchement, la différence est énorme. Mes jambes sont restées légères, pas de gonflement comme d’habitude. Elles sont super confortables, même après plusieurs heures assise. Clairement un must-have pour tous mes futurs voyages.</p>"
+          }
+        },
+        "testimonial_iYHtaF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emilie F.",
+            "title": "Idéales pour le sport",
+            "content": "<p>Je les utilise pendant mes séances de sport parce que j’ai souvent des problèmes de circulation. Depuis que je les porte, je ressens beaucoup moins de lourdeur dans les jambes, même après un entraînement intense. Elles restent bien en place et ne me gênent pas du tout.</p>"
+          }
+        },
+        "testimonial_TR4LPX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Christine M.",
+            "title": "Très utiles au quotidien",
+            "content": "<p>Je ne pensais pas que des chaussettes pouvaient faire autant de différence. Dès les premières minutes, j’ai senti mes jambes plus légères et beaucoup moins fatiguées. Je les porte tous les jours maintenant, surtout quand je suis en déplacement.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_nFGwz7",
+        "testimonial_iYHtaF",
+        "testimonial_TR4LPX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Plus de 25,000+ Visages Rajeunis",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "OFFRE DE PÂQUES -50%",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 6,
+        "background": "#00cae0",
+        "background_gradient": "",
+        "text_color": "#faf8f5",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_yJbGLt": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9eRTYV": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Un mode d'infusion innovant et indolore",
+            "content": "<p>Ses micro-aiguilles ultra-fines et quasiment indolores pénètrent au-delà de la surface de la peau, optimisant l’absorption du sérum et le délivrant <strong>exactement là où il est nécessaire</strong> : dans les couches profondes de l’épiderme.</p><p>Des essais cliniques montrent que ce traitement augmente la production de collagène de <strong>76 %</strong>, ce qui équivaut à <strong>gagner jusqu’à 10 ans</strong> sur l’âge de votre peau !</p>",
+            "link_text": "Acheter maintenant",
+            "link_url": "shopify://products/micro-infusion-anti-age",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9eRTYV"
+      ],
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "faq_xtiDpM": {
+      "type": "faq",
+      "blocks": {
+        "item_pyDdkn": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionne la micro-infusion",
+            "content": "<p>Notre système de <strong>micro-infusion révolutionnaire</strong> utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer de micro-canaux à la surface de la peau.</p><p>Cette technologie permet à un <strong>sérum concentré en acide hyaluronique et peptides de collagène</strong> de pénétrer en profondeur, là où les soins anti-âge classiques n’agissent pas.</p><p>Résultat : la <strong>production de collagène est relancée</strong>, les <strong>rides, ridules et signes de relâchement</strong> sont visiblement réduits, pour une peau <strong>plus ferme, plus lisse et éclatante</strong>.</p><p>Appliquez-le <strong>toutes les deux semaines</strong> et profitez d’un véritable soin professionnel <strong>depuis chez vous</strong>, avec des résultats visibles dès les premières séances.</p>"
+          }
+        },
+        "item_GfARGt": {
+          "type": "item",
+          "settings": {
+            "title": "Les têtes d'aiguilles sont-elles réutilisables?",
+            "content": "<p>💡 <strong>Important :</strong> Une fois les <strong>trois sessions de traitement</strong> réalisées sur une période de <strong>45 jours</strong>, la tête à micro-aiguilles doit impérativement être <strong>jetée</strong>.</p><p>🧼 <strong>Nettoyage entre chaque utilisation :</strong></p><ul><li>Rincez la tête à aiguilles à l’eau tiède.</li><li>Désinfectez-la à l’aide d’un antiseptique ou d’un alcool doux (70°)</li><li>Rincez à nouveau à l’eau tiède</li><li>Laissez sécher complètement à <strong>l’air libre</strong>, sans essuyer</li></ul>"
+          }
+        },
+        "item_tAWMpL": {
+          "type": "item",
+          "settings": {
+            "title": "Où l’appliquer?",
+            "content": "<p>Ce système fonctionne sur de nombreuses zones du visage et du cou, car le <strong>vieillissement cutané</strong> est principalement dû à la <strong>perte de collagène</strong>.</p><p>En l’utilisant <strong>toutes les deux semaines</strong>, vous stimulez naturellement la production de collagène et redonnez à votre peau <strong>fermeté et élasticité</strong>.</p><p>🎯 <strong>Zones ciblées</strong> :<br/><br/>✔ Rides du front<br/><br/>✔ Rides du lion (entre les sourcils)<br/><br/>✔ Pattes d’oie<br/><br/>✔ Rides autour des yeux<br/><br/>✔ Rides du nez (« bunny lines »)<br/><br/>✔ Menton irrégulier (« strawberry chin »)<br/><br/>✔ Sillons nasogéniens<br/><br/>✔ Rides du fumeur (autour de la bouche)<br/><br/>✔ Plis d’amertume (coins des lèvres)<br/><br/>✔ Relâchement du cou (« turkey neck »)</p>"
+          }
+        },
+        "item_kjEDPn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce indolore et sans danger?",
+            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong>. La plupart des utilisateurs ressentent simplement un <strong>léger picotement</strong>.</p><p>Notre système de micro-infusion est :Formulé <strong>sans tests sur les animaux</strong>, <strong>sans sulfates</strong>, <strong>sans parabènes</strong>, il respecte les peaux même sensibles.</p><p>Notre sérum, quant à lui, est composé d’<strong>ingrédients haut de gamme</strong>, rigoureusement sélectionnés selon les normes de qualité les plus strictes du secteur, garantissant <strong>zéro risque d’effet indésirable</strong>.</p><p>✅ Sans parfum<br/><br/>✅ Non testé sur les animaux<br/><br/>✅ Sans BHA<br/><br/>✅ Sans parabènes</p>"
+          }
+        },
+        "item_xAQBXt": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-il à tous les types de peau?",
+            "content": "<p><strong>Oui, notre système de micro-infusion est sûr pour tous les types de peau, même les plus sensibles.</strong><br/><br/>En cas de problème de peau important, il est tout de même conseillé de demander l’avis de votre médecin avant utilisation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_pyDdkn",
+        "item_GfARGt",
+        "item_tAWMpL",
+        "item_kjEDPn",
+        "item_xAQBXt"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQs",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "SOULAGEMENT A CHAQUE PAS.",
+        "button_text": "Acheter maintenant",
+        "button_url": "shopify://products/nomad™-compression-larges-classiques",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_aMReqK",
+    "testimonials_mTWwYr",
+    "scrolling-text",
+    "media_with_text_yJbGLt",
+    "faq_xtiDpM"
+  ]
+}
