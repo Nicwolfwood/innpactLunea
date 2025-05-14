@@ -42,6 +42,7 @@
         "testimonial_nFGwz7": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/1000022631_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -53,6 +54,7 @@
         "testimonial_iYHtaF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/nikmok_1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
