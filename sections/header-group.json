@@ -17,7 +17,7 @@
         "message_MiLbtm": {
           "type": "message",
           "settings": {
-            "text": "2 + 2 OFFERTE 🎁",
+            "text": "OFFRE DE PÂQUES -50%",
             "url": ""
           }
         },
@@ -58,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/NOMAD._11e43fb9-afc3-4e50-bb73-f82d46e52ae5.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
