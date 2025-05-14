@@ -552,110 +552,6 @@
         "text_color": ""
       }
     },
-    "multi_column_ibwf93": {
-      "type": "multi-column",
-      "blocks": {
-        "item_RpUnig": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_2.jpg",
-            "column_size": "3",
-            "title": "Peptides de collagène",
-            "heading_tag": "h4",
-            "content": "<p>Favorisent la production de collagène pour une peau plus ferme et plus souple, atténuent les rides et les ridules, améliorent la texture et renforcent la structure de la peau.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jhPwgY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/elastyn.png",
-            "column_size": "3",
-            "title": "Élastine",
-            "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle renforce l’élasticité de la peau, prévient le relâchement et maintient un teint ferme, lisse et protégé.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tdBE7K": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_4.png",
-            "column_size": "3",
-            "title": "Acide hyaluronique",
-            "heading_tag": "h4",
-            "content": "<p>Hydrate en profondeur, répare et régénère la peau. Repulpe visiblement et lisse rides et ridules.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hktMqe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_1_5ea823f0-28a1-4a44-b024-a4b075a9f83e.png",
-            "column_size": "3",
-            "title": "Glycérine",
-            "heading_tag": "h4",
-            "content": "<p>Renforce la barrière cutanée, adoucit et protège des irritations et de la sécheresse.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wjmEH7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_3_6a2d7223-431d-47af-b8c9-10953fb00c55.png",
-            "column_size": "3",
-            "title": "Huile de fleur d’oranger",
-            "heading_tag": "h4",
-            "content": "<p>Unifie le teint, protège des agressions extérieures et calme les irritations.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8t3ewa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/squardo.png",
-            "column_size": "3",
-            "title": "Squalane",
-            "heading_tag": "h4",
-            "content": "<p>Nourrit sans effet gras, protège de la déshydratation et redonne éclat à la peau.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_RpUnig",
-        "item_jhPwgY",
-        "item_tdBE7K",
-        "item_hktMqe",
-        "item_wjmEH7",
-        "item_8t3ewa"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Des ingrédients qui font la différence",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "comparaison_pyYYpc": {
       "type": "COMPARAISON",
       "blocks": {
@@ -936,6 +832,110 @@
         "lazy": true
       }
     },
+    "multi_column_ibwf93": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RpUnig": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_2.jpg",
+            "column_size": "3",
+            "title": "Peptides de collagène",
+            "heading_tag": "h4",
+            "content": "<p>Favorisent la production de collagène pour une peau plus ferme et plus souple, atténuent les rides et les ridules, améliorent la texture et renforcent la structure de la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jhPwgY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/elastyn.png",
+            "column_size": "3",
+            "title": "Élastine",
+            "heading_tag": "h4",
+            "content": "<p>Complément naturel du collagène, elle renforce l’élasticité de la peau, prévient le relâchement et maintient un teint ferme, lisse et protégé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tdBE7K": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_4.png",
+            "column_size": "3",
+            "title": "Acide hyaluronique",
+            "heading_tag": "h4",
+            "content": "<p>Hydrate en profondeur, répare et régénère la peau. Repulpe visiblement et lisse rides et ridules.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hktMqe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_1_5ea823f0-28a1-4a44-b024-a4b075a9f83e.png",
+            "column_size": "3",
+            "title": "Glycérine",
+            "heading_tag": "h4",
+            "content": "<p>Renforce la barrière cutanée, adoucit et protège des irritations et de la sécheresse.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wjmEH7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_3_3_6a2d7223-431d-47af-b8c9-10953fb00c55.png",
+            "column_size": "3",
+            "title": "Huile de fleur d’oranger",
+            "heading_tag": "h4",
+            "content": "<p>Unifie le teint, protège des agressions extérieures et calme les irritations.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8t3ewa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/squardo.png",
+            "column_size": "3",
+            "title": "Squalane",
+            "heading_tag": "h4",
+            "content": "<p>Nourrit sans effet gras, protège de la déshydratation et redonne éclat à la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RpUnig",
+        "item_jhPwgY",
+        "item_tdBE7K",
+        "item_hktMqe",
+        "item_wjmEH7",
+        "item_8t3ewa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des ingrédients qui font la différence",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_y6ACWN": {
       "type": "faq",
       "blocks": {
@@ -1110,8 +1110,8 @@
     "tabs_R4WgnD",
     "multi_column_7rLr64",
     "multi_column_AFJjwh",
-    "multi_column_ibwf93",
     "comparaison_pyYYpc",
+    "multi_column_ibwf93",
     "faq_y6ACWN",
     "17472222523acc8762"
   ]
