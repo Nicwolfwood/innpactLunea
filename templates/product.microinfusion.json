@@ -476,143 +476,80 @@
         "text_color": ""
       }
     },
-    "rich_text_HUEhHj": {
-      "type": "rich-text",
+    "multi_column_AFJjwh": {
+      "type": "multi-column",
       "blocks": {
-        "heading_c3BDnp": {
-          "type": "heading",
+        "item_FgJwKe": {
+          "type": "item",
           "settings": {
-            "text": "Une peau rajeunie en 4 étapes simples",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KTbeF3": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_c6NRcU": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3 (1).mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HU6F4Y": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_c3BDnp"
+        "item_FgJwKe",
+        "item_KTbeF3",
+        "item_c6NRcU",
+        "item_HU6F4Y"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Une peau rajeunie en 4 étapes simples",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_with_text_hTnB7A": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_KAViUt": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 30,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 24,
-            "subheading": "",
-            "title": "I.",
-            "content": "<p>Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#8ee9f3",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "video_URxbEp": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 30,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "II.",
-            "content": "<p>Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#8ee9f3",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "video_KjVGFM": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3 (1).mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 30,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "III.",
-            "content": "<p>Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#8ee9f3",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "video_pFLUKg": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 30,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "IV.",
-            "content": "<p>Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#8ee9f3",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_KAViUt",
-        "video_URxbEp",
-        "video_KjVGFM",
-        "video_pFLUKg"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
       }
     },
     "multi_column_ibwf93": {
@@ -1172,8 +1109,7 @@
     "main",
     "tabs_R4WgnD",
     "multi_column_7rLr64",
-    "rich_text_HUEhHj",
-    "media_with_text_hTnB7A",
+    "multi_column_AFJjwh",
     "multi_column_ibwf93",
     "comparaison_pyYYpc",
     "faq_y6ACWN",
