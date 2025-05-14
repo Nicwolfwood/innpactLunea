@@ -1138,6 +1138,26 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "17472222523acc8762": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_LU3Ahd": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_LU3Ahd"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -1155,6 +1175,7 @@
     "media_with_text_hTnB7A",
     "multi_column_ibwf93",
     "comparaison_pyYYpc",
-    "faq_y6ACWN"
+    "faq_y6ACWN",
+    "17472222523acc8762"
   ]
 }
