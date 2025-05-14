@@ -54,7 +54,7 @@
         "testimonial_iYHtaF": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/nikmok_1.png",
+            "image": "shopify://shop_images/1000011469_1_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -66,6 +66,7 @@
         "testimonial_TR4LPX": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/nikmok_1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -118,13 +119,14 @@
         "image_9eRTYV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/14c8166a3f7f4c078d404aa1215e11c3.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Un mode d'infusion innovant et indolore",
+            "title": "L’innovation en douceur",
             "content": "<p>Ses micro-aiguilles ultra-fines et quasiment indolores pénètrent au-delà de la surface de la peau, optimisant l’absorption du sérum et le délivrant <strong>exactement là où il est nécessaire</strong> : dans les couches profondes de l’épiderme.</p><p>Des essais cliniques montrent que ce traitement augmente la production de collagène de <strong>76 %</strong>, ce qui équivaut à <strong>gagner jusqu’à 10 ans</strong> sur l’âge de votre peau !</p>",
             "link_text": "Acheter maintenant",
             "link_url": "shopify://products/micro-infusion-anti-age",
