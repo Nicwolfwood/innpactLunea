@@ -737,7 +737,7 @@
         "list_text_size": 20,
         "list_text_size_mobile": 18,
         "list_text_height": 50,
-        "button": "Acheter maintenant",
+        "button": "",
         "button_url": "shopify://products/micro-infusion-anti-age",
         "button_custom": false,
         "button_font": "din_next_n4",
