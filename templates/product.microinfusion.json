@@ -484,7 +484,7 @@
           "settings": {
             "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
             "column_size": "3",
-            "title": "",
+            "title": "I.",
             "heading_tag": "h4",
             "content": "<p>Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.</p>",
             "link_url": "",
@@ -497,7 +497,7 @@
           "settings": {
             "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
             "column_size": "3",
-            "title": "",
+            "title": "II.",
             "heading_tag": "h4",
             "content": "<p>Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.</p>",
             "link_url": "",
@@ -510,7 +510,7 @@
           "settings": {
             "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3 (1).mp4",
             "column_size": "3",
-            "title": "",
+            "title": "III.",
             "heading_tag": "h4",
             "content": "<p>Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement</p>",
             "link_url": "",
@@ -523,7 +523,7 @@
           "settings": {
             "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
             "column_size": "3",
-            "title": "",
+            "title": "IV.",
             "heading_tag": "h4",
             "content": "<p>Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.</p>",
             "link_url": "",
