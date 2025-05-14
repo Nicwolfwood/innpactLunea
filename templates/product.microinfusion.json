@@ -858,6 +858,286 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "comparaison_pyYYpc": {
+      "type": "COMPARAISON",
+      "blocks": {
+        "list_item_AKLqNH": {
+          "type": "list_item",
+          "settings": {
+            "text": "Lisse les rides"
+          }
+        },
+        "list_item_XFM3Y4": {
+          "type": "list_item",
+          "settings": {
+            "text": "Relance la production de collagène"
+          }
+        },
+        "list_item_XkkhBH": {
+          "type": "list_item",
+          "settings": {
+            "text": "Efface les poches sous les yeux"
+          }
+        },
+        "list_item_4PejMc": {
+          "type": "list_item",
+          "settings": {
+            "text": "Effet éclatant et durable"
+          }
+        },
+        "list_item_MGxxLM": {
+          "type": "list_item",
+          "settings": {
+            "text": "Infusion sans douleur"
+          }
+        },
+        "list_item_NLYx8B": {
+          "type": "list_item",
+          "settings": {
+            "text": "Adapté a toutes les peaux"
+          }
+        },
+        "table_row_mpHD7f": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Pénétration ciblée",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_at9iLy": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Zéro douleur",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_gEL9jK": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Ultra-doux",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_njKzaK": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Prix",
+            "first_column": "24€ / session",
+            "first_column_icon": "none",
+            "second_column": "300-600€ / session",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "check",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_Y6PYFL": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Abordable",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "check",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_xWXCzc": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Satisfait ou remboursé",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_4HCNmg": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Testé et recommandé",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "check",
+            "third_column": "",
+            "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_AKLqNH",
+        "list_item_XFM3Y4",
+        "list_item_XkkhBH",
+        "list_item_4PejMc",
+        "list_item_MGxxLM",
+        "list_item_NLYx8B",
+        "table_row_mpHD7f",
+        "table_row_at9iLy",
+        "table_row_gEL9jK",
+        "table_row_njKzaK",
+        "table_row_Y6PYFL",
+        "table_row_xWXCzc",
+        "table_row_4HCNmg"
+      ],
+      "name": "SS - Comparison Table #6",
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><strong>Pourquoi choisir LUNEA ?</strong></p>",
+        "heading_custom": true,
+        "heading_font": "din_next_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "<p>We pride ourselves in our quality and focus on sleep, we cannot say the same for others.</p>",
+        "text_custom": true,
+        "text_font": "din_next_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": true,
+        "list_text_font": "din_next_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 50,
+        "button": "Acheter maintenant",
+        "button_url": "shopify://products/micro-infusion-anti-age",
+        "button_custom": false,
+        "button_font": "din_next_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 3,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "LUNEA",
+        "first_heading_image": "shopify://shop_images/LUNEEEEEE_2.png",
+        "second_heading": "Clinique",
+        "second_heading_image": "shopify://shop_images/telechargement.png",
+        "third_heading": "",
+        "third_heading_image": "shopify://shop_images/telechargement_1.png",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#00cae0",
+        "button_bg_hover_color": "#16142B",
+        "button_border_color": "#16142B",
+        "button_border_hover_color": "#16142B",
+        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#DAD0FF",
+        "table_heading_color": "#1A192E",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#2D2B43",
+        "table_column_active_bg_color": "#2D2B43",
+        "table_row_heading_color": "#1A192E",
+        "table_row_text_color": "#1A192E",
+        "table_row_active_text_color": "#FFFFFF",
+        "background_color": "#faf8f5",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -874,6 +1154,7 @@
     "rich_text_HUEhHj",
     "media_with_text_hTnB7A",
     "multi_column_ibwf93",
-    "faq_y6ACWN"
+    "faq_y6ACWN",
+    "comparaison_pyYYpc"
   ]
 }
