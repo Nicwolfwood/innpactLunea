@@ -209,19 +209,6 @@
             "link_style": "link"
           }
         },
-        "item_eJ8jBf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avis4.png",
-            "column_size": "3",
-            "title": "Josephine B.",
-            "heading_tag": "h4",
-            "content": "<p>\"À 71 ans, je pensais que mes rides au décolleté étaient irréversibles… Ce produit a fait des merveilles !\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_ac33Hc": {
           "type": "item",
           "settings": {
@@ -247,15 +234,28 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_eJ8jBf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis4.png",
+            "column_size": "3",
+            "title": "Josephine B.",
+            "heading_tag": "h4",
+            "content": "<p>\"À 71 ans, je pensais que mes rides au décolleté étaient irréversibles… Ce produit a fait des merveilles !\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_JWMQTW",
         "item_Kb8E4g",
         "item_8FM8F9",
-        "item_eJ8jBf",
         "item_ac33Hc",
-        "item_YVBWAa"
+        "item_YVBWAa",
+        "item_eJ8jBf"
       ],
       "name": "Multi-column",
       "settings": {
