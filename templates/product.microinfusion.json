@@ -303,7 +303,7 @@
         "liquid_ntjTPf": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"background-color: #FAF8F5; border: 1px solid #00CAE0; padding: 10px; border-radius: 8px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); text-align: center; font-weight: bold; font-size: 16px; color: #1A1A1A;\">\n Élu anti-âge #1 en France!\n</div>"
+            "liquid": "<div style=\"background-color: #EADDD5; border: 1px solid #00CAE0; padding: 10px; border-radius: 8px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); text-align: center; font-weight: bold; font-size: 16px; color: #1A1A1A;\">\n Élu anti-âge #1 en France!\n</div>"
           }
         },
         "buy_buttons": {
