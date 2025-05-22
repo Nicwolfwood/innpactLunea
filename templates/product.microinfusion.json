@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/MICRObaniiere_2.png",
+        "image": "shopify://shop_images/MICRObaniiere_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -265,7 +265,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Nos clientes en parlent le mieux",
-        "content": "",
+        "content": "<h1>Excellent <strong>4.7/ 5</strong></h1><p></p><h6></h6>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
