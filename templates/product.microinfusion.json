@@ -133,7 +133,7 @@
         "heading_tzgwqr": {
           "type": "heading",
           "settings": {
-            "text": "Lunéa régénère ta peau de l’intérieur",
+            "text": "Régénère ta peau de l’intérieur",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -161,7 +161,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/MicroInfusionAvantAPres2.mp4",
+        "video": "shopify://files/videos/MicroInfusionAvantAPres (1).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
