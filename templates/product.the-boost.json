@@ -174,11 +174,11 @@
         "item_JWMQTW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis1_1.png",
+            "image": "shopify://shop_images/AVIS1_2.png",
             "column_size": "3",
-            "title": "Juliette E.",
+            "title": "Claire I.",
             "heading_tag": "h4",
-            "content": "<p>\"Les pattes d’oie étaient mon plus grand complexe. En quelques semaines, elles ont presque disparu ! Je le recommande à toute ma famille.\"</p>",
+            "content": "<p>\"Je prends <strong>Nomad Yerba Mate</strong> depuis quelques semaines et j’ai <strong>beaucoup moins d’envies</strong>. <strong>Mon appétit est sous contrôle</strong> et <strong>je n’ai aucun effet secondaire</strong>.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -187,11 +187,11 @@
         "item_Kb8E4g": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis2.png",
+            "image": "shopify://shop_images/AVIS2_1.png",
             "column_size": "3",
-            "title": "Marie H.",
+            "title": "Marina S.",
             "heading_tag": "h4",
-            "content": "<p>\"Aucune douleur ! En 4 applications, ma peau est plus ferme, lisse et lumineuse. J’ai vraiment l’impression d’avoir rajeuni.\"</p>",
+            "content": "<p>\"Maman de deux enfants, j’ai enfin <strong>repris le contrôle sur mes envies</strong>.<br/><strong>Moins de gonflement</strong>, et ce moment rien qu’à moi chaque jour.\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,11 +200,11 @@
         "item_8FM8F9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis3_3.png",
+            "image": "shopify://shop_images/AVIS3_4.png",
             "column_size": "3",
-            "title": "Stephanie G.",
+            "title": "Emilie F.",
             "heading_tag": "h4",
-            "content": "<p>\"Dès la première application, mes ridules se sont estompées. En un mois, mes lèvres sont plus lisses et repulpées.\"</p>",
+            "content": "<p>\"<strong>Nomad Zen Fit</strong>, c’est le seul qui a <strong>éliminé mes envies</strong>. J’ai <strong>perdu 4 tailles</strong> sans changer mon alimentation.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -213,11 +213,11 @@
         "item_ac33Hc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis5.png",
+            "image": "shopify://shop_images/AVIS4_1.png",
             "column_size": "3",
-            "title": "Valerie T.",
+            "title": "Danielle V.",
             "heading_tag": "h4",
-            "content": "<p>\"Je croyais que seul le laser pouvait m’aider… Mais avec la micro-infusion, ma peau est enfin uniforme et lumineuse et tout ça, sans douleur !\"</p>",
+            "content": "<p><strong>\"Nomad Yerba Mate</strong> me donne de l’<strong>énergie sans nervosité</strong>, ni <strong>ballonnements</strong>. En plus, <strong>le goût est top</strong> et ça aide à la <strong>digestion</strong>.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,11 +226,11 @@
         "item_YVBWAa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis6.png",
+            "image": "shopify://shop_images/AVIS5_2.png",
             "column_size": "3",
-            "title": "Isabelle S.",
+            "title": "Julie A.",
             "heading_tag": "h4",
-            "content": "<p>\"Incroyable ! Mes pattes d’oie se sont estompées bien plus vite que je ne l’imaginais, et l’application est d’une simplicité déconcertante.\"</p>",
+            "content": "<p>\"J’ai besoin d’<strong>énergie et de clarté mentale</strong> toute la journée.Ce thé me <strong>garde concentrée</strong> et je me sens <strong>vraiment bien</strong> !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -239,11 +239,11 @@
         "item_eJ8jBf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis4.png",
+            "image": "shopify://shop_images/AVIS6_2.png",
             "column_size": "3",
             "title": "Josephine B.",
             "heading_tag": "h4",
-            "content": "<p>\"À 71 ans, je pensais que mes rides au décolleté étaient irréversibles… Ce produit a fait des merveilles !\"</p>",
+            "content": "<p><strong>\"Le goût m’a vraiment surprise !</strong><br/>Depuis que je le bois après mes repas, je n’ai <strong>plus cette sensation de lourdeur</strong>.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
