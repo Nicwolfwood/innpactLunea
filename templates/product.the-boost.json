@@ -155,6 +155,7 @@
     },
     "video_zmFTfq": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -545,43 +546,31 @@
         "list_item_AKLqNH": {
           "type": "list_item",
           "settings": {
-            "text": "Lisse les rides"
+            "text": "Coupe faim naturel"
           }
         },
         "list_item_XFM3Y4": {
           "type": "list_item",
           "settings": {
-            "text": "Relance la production de collagène"
+            "text": "Confort digestif"
           }
         },
         "list_item_XkkhBH": {
           "type": "list_item",
           "settings": {
-            "text": "Efface les poches sous les yeux"
+            "text": "Boost d'énergie"
           }
         },
         "list_item_4PejMc": {
           "type": "list_item",
           "settings": {
-            "text": "Effet éclatant et durable"
-          }
-        },
-        "list_item_MGxxLM": {
-          "type": "list_item",
-          "settings": {
-            "text": "Infusion sans douleur"
-          }
-        },
-        "list_item_NLYx8B": {
-          "type": "list_item",
-          "settings": {
-            "text": "Adapté a toutes les peaux"
+            "text": "Clarté mentale"
           }
         },
         "table_row_mpHD7f": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Stimulation naturelle le GLP1",
+            "row_heading": "Stimulation naturelle de GLP1",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -696,8 +685,6 @@
         "list_item_XFM3Y4",
         "list_item_XkkhBH",
         "list_item_4PejMc",
-        "list_item_MGxxLM",
-        "list_item_NLYx8B",
         "table_row_mpHD7f",
         "table_row_at9iLy",
         "table_row_gEL9jK",
@@ -757,7 +744,7 @@
         "button_border_thickness": 0,
         "button_style": "non_outline",
         "button_position_mobile": "bottom",
-        "table_columns": 3,
+        "table_columns": 2,
         "table_mt_mobile": 32,
         "table_column_active": "1",
         "table_radius": 16,
