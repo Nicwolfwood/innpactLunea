@@ -477,80 +477,66 @@
         "text_color": ""
       }
     },
-    "multi_column_AFJjwh": {
-      "type": "multi-column",
+    "rich_text_n7UpdE": {
+      "type": "rich-text",
       "blocks": {
-        "item_FgJwKe": {
-          "type": "item",
+        "heading_pYXnmj": {
+          "type": "heading",
           "settings": {
-            "video": "shopify://files/videos/bdb45a2c67fa4300852782da101d83d9.mp4",
-            "column_size": "3",
-            "title": "I.",
-            "heading_tag": "h4",
-            "content": "<p>Ouvrez le flacon et remplissez-le avec le sérum. Refermez sans forcer pour une application optimale.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_KTbeF3": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/b367039c35d94025a2fecf920241dd0d.mp4",
-            "column_size": "3",
-            "title": "II.",
-            "heading_tag": "h4",
-            "content": "<p>Retournez le flacon et laissez-le à l’envers pendant 2 minutes afin que les micro-aiguilles s’imprègnent parfaitement du sérum.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_c6NRcU": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/f4b718da87294f56afa3e8eb6ec779f3 (1).mp4",
-            "column_size": "3",
-            "title": "III.",
-            "heading_tag": "h4",
-            "content": "<p>Tapotez délicatement votre peau (visage, lèvres, cou, etc.). Répétez 2 à 3 fois pour des résultats visibles plus rapidement</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HU6F4Y": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/3d97aa01947b428c8e7aca007340811b.mp4",
-            "column_size": "3",
-            "title": "IV.",
-            "heading_tag": "h4",
-            "content": "<p>Massez l’excédent de sérum sur votre peau et laissez-le agir toute la nuit. Pour une routine complète, appliquez ensuite vos soins habituels.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Résultats parlants",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_FgJwKe",
-        "item_KTbeF3",
-        "item_c6NRcU",
-        "item_HU6F4Y"
+        "heading_pYXnmj"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Une peau rajeunie en 4 étapes simples",
-        "content": "",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_with_text_HTLhKq": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_wezbed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/productpageTHE.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<ul><li><strong>85% </strong>ont ressenti un regain d’énergie durable.</li><li><strong>95%</strong> ont constaté une meilleure concentration et une clarté mentale accrue.</li><li><strong>92%</strong> ont constaté une digestion amélioréel.</li><li><strong>93%</strong> ont ressenti moins de stress et d’anxiété.</li></ul>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wezbed"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "comparaison_pyYYpc": {
@@ -595,11 +581,11 @@
         "table_row_mpHD7f": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Pénétration ciblée",
+            "row_heading": "Stimulation naturelle le GLP1",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
-            "second_column_icon": "check",
+            "second_column_icon": "cross",
             "third_column": "",
             "third_column_icon": "cross",
             "four_column": "",
@@ -609,7 +595,7 @@
         "table_row_at9iLy": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Zéro douleur",
+            "row_heading": "Aide à contrôler l’appétit",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -623,7 +609,7 @@
         "table_row_gEL9jK": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Ultra-doux",
+            "row_heading": "Aide a la perte de poids",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -637,11 +623,11 @@
         "table_row_njKzaK": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Prix",
-            "first_column": "24€ / session",
-            "first_column_icon": "none",
-            "second_column": "300-600€ / session",
-            "second_column_icon": "none",
+            "row_heading": "Boost d'énergie",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
             "third_column": "",
             "third_column_icon": "check",
             "four_column": "",
@@ -651,7 +637,7 @@
         "table_row_Y6PYFL": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Abordable",
+            "row_heading": "Améliore clarté mentale",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -665,7 +651,7 @@
         "table_row_xWXCzc": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Satisfait ou remboursé",
+            "row_heading": "Améliore digestion et santé intestinale",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -679,13 +665,27 @@
         "table_row_4HCNmg": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Testé et recommandé",
+            "row_heading": "Sans effets secondaires risqués",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
-            "second_column_icon": "check",
+            "second_column_icon": "cross",
             "third_column": "",
             "third_column_icon": "cross",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_KbKYta": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Sans prescription",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
             "four_column": "",
             "four_column_icon": "none"
           }
@@ -704,7 +704,8 @@
         "table_row_njKzaK",
         "table_row_Y6PYFL",
         "table_row_xWXCzc",
-        "table_row_4HCNmg"
+        "table_row_4HCNmg",
+        "table_row_KbKYta"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
@@ -764,11 +765,10 @@
         "table_heading_image_size": 100,
         "table_heading_image_size_mobile": 80,
         "first_heading": "LUNEA",
-        "first_heading_image": "shopify://shop_images/LUNEEEEEE_2.png",
+        "first_heading_image": "shopify://shop_images/THISONEFIRST_1.webp",
         "second_heading": "Clinique",
-        "second_heading_image": "shopify://shop_images/telechargement.png",
+        "second_heading_image": "shopify://shop_images/zempic.webp",
         "third_heading": "",
-        "third_heading_image": "shopify://shop_images/telechargement_1.png",
         "four_heading": "Fourth",
         "table_heading_custom": false,
         "table_heading_font": "assistant_n4",
@@ -836,14 +836,27 @@
     "multi_column_ibwf93": {
       "type": "multi-column",
       "blocks": {
+        "item_hktMqe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/cafeineyerbamate.png",
+            "column_size": "3",
+            "title": "Caféine de Yerba mate",
+            "heading_tag": "h4",
+            "content": "<p>Riche en antioxydants pour renforcer le système immunitaire et combattre le stress oxydatif.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_RpUnig": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_2.jpg",
+            "image": "shopify://shop_images/LIONSMANE.png",
             "column_size": "3",
-            "title": "Peptides de collagène",
+            "title": "Champignon Lion’s Mane",
             "heading_tag": "h4",
-            "content": "<p>Favorisent la production de collagène pour une peau plus ferme et plus souple, atténuent les rides et les ridules, améliorent la texture et renforcent la structure de la peau.</p>",
+            "content": "<p>Puissant nootropique, améliore LA mémoire, LA concentration et protège le cerveau.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -852,11 +865,11 @@
         "item_jhPwgY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/elastyn.png",
+            "image": "shopify://shop_images/L-Theanine.png",
             "column_size": "3",
-            "title": "Élastine",
+            "title": "L-Théanine",
             "heading_tag": "h4",
-            "content": "<p>Complément naturel du collagène, elle renforce l’élasticité de la peau, prévient le relâchement et maintient un teint ferme, lisse et protégé.</p>",
+            "content": "<p>Agit avec la caféine pour calmer l’esprit, réduire le stress et améliorer le sommeil.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -865,50 +878,11 @@
         "item_tdBE7K": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_3_4.png",
+            "image": "shopify://shop_images/pre_probiotic.png",
             "column_size": "3",
-            "title": "Acide hyaluronique",
+            "title": "Pro + prébiotiques",
             "heading_tag": "h4",
-            "content": "<p>Hydrate en profondeur, répare et régénère la peau. Repulpe visiblement et lisse rides et ridules.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_hktMqe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_1_5ea823f0-28a1-4a44-b024-a4b075a9f83e.png",
-            "column_size": "3",
-            "title": "Glycérine",
-            "heading_tag": "h4",
-            "content": "<p>Renforce la barrière cutanée, adoucit et protège des irritations et de la sécheresse.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wjmEH7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_3_3_6a2d7223-431d-47af-b8c9-10953fb00c55.png",
-            "column_size": "3",
-            "title": "Huile de fleur d’oranger",
-            "heading_tag": "h4",
-            "content": "<p>Unifie le teint, protège des agressions extérieures et calme les irritations.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8t3ewa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/squardo.png",
-            "column_size": "3",
-            "title": "Squalane",
-            "heading_tag": "h4",
-            "content": "<p>Nourrit sans effet gras, protège de la déshydratation et redonne éclat à la peau.</p>",
+            "content": "<p>Mélange de fibres qui nourrit les bonnes bactéries, facilite la digestion et réduit les ballonnement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -916,12 +890,10 @@
         }
       },
       "block_order": [
+        "item_hktMqe",
         "item_RpUnig",
         "item_jhPwgY",
-        "item_tdBE7K",
-        "item_hktMqe",
-        "item_wjmEH7",
-        "item_8t3ewa"
+        "item_tdBE7K"
       ],
       "name": "Multi-column",
       "settings": {
@@ -943,99 +915,50 @@
         "item_fX4UM3": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la micro-infusion",
-            "content": "<p>Notre système de <strong>micro-infusion révolutionnaire</strong> utilise des <strong>micro-aiguilles ultra-fines et indolores</strong> pour créer de micro-canaux à la surface de la peau.</p><p>Cette technologie permet à un <strong>sérum concentré en acide hyaluronique et peptides de collagène</strong> de pénétrer en profondeur, là où les soins anti-âge classiques n’agissent pas.</p><p>Résultat : la <strong>production de collagène est relancée</strong>, les <strong>rides, ridules et signes de relâchement</strong> sont visiblement réduits, pour une peau <strong>plus ferme, plus lisse et éclatante</strong>.</p><p>Appliquez-le <strong>toutes les deux semaines</strong> et profitez d’un véritable soin professionnel <strong>depuis chez vous</strong>, avec des résultats visibles dès les premières séances.</p>"
+            "title": "Quel goût a le yerba mate?",
+            "content": "<p>Le yerba mate offre une saveur douce et rafraîchissante avec de subtiles notes de yerba mate et d’extraits naturels de fruits. Légèrement terreuse, elle reste légère et facile à boire, parfaite pour les novices comme les amateurs de thé.</p>"
           }
         },
         "item_EP3Fqd": {
           "type": "item",
           "settings": {
-            "title": "Est-ce indolore et sans danger?",
-            "content": "<p>Grâce à ses <strong>micro-aiguilles ultra-fines de 0,05 mm</strong>, aussi fines qu’un cheveu, l’application est <strong>quasiment imperceptible</strong> et <strong>100 % indolore</strong>. La plupart des utilisateurs ressentent simplement un <strong>léger picotement</strong>.</p><p>Notre système de micro-infusion est :Formulé <strong>sans tests sur les animaux</strong>, <strong>sans sulfates</strong>, <strong>sans parabènes</strong>, il respecte les peaux même sensibles.</p><p>Notre sérum, quant à lui, est composé d’<strong>ingrédients haut de gamme</strong>, rigoureusement sélectionnés selon les normes de qualité les plus strictes du secteur, garantissant <strong>zéro risque d’effet indésirable</strong>.</p><p>✅ Sans parfum<br/><br/>✅ Non testé sur les animaux<br/><br/>✅ Sans BHA<br/><br/>✅ Sans parabènes</p>"
+            "title": "Quelle quantité de caféine contient-il?",
+            "content": "<p>Chaque portion contient 100 mg de caféine naturelle issue du Yerba Mate, offrant un regain d’énergie constant sans nervosité ni coup de fatigue comme avec le café.</p>"
           }
         },
         "item_CeyGYA": {
           "type": "item",
           "settings": {
-            "title": "Les têtes d'aiguilles sont-elles réutilisables?",
-            "content": "<p>💡 <strong>Important :</strong> Une fois les <strong>trois sessions de traitement</strong> réalisées sur une période de <strong>45 jours</strong>, la tête à micro-aiguilles doit impérativement être <strong>jetée</strong>.</p><p>🧼 <strong>Nettoyage entre chaque utilisation :</strong></p><ul><li>Rincez la tête à aiguilles à l’eau tiède.</li><li>Désinfectez-la à l’aide d’un antiseptique ou d’un alcool doux (70°)</li><li>Rincez à nouveau à l’eau tiède</li><li>Laissez sécher complètement à <strong>l’air libre</strong>, sans essuyer</li></ul>"
+            "title": "Puis-je en boire tous les jours?",
+            "content": "<p>Oui ! Le Yerba Mate est conçu pour une consommation quotidienne et peut se boire le matin pour un coup de boost, l’après-midi pour retrouver de l’énergie, ou avant l’entraînement.</p>"
           }
         },
         "item_KLtmLV": {
           "type": "item",
           "settings": {
-            "title": "Où l’appliquer?",
-            "content": "<p>Ce système fonctionne sur de nombreuses zones du visage et du cou, car le <strong>vieillissement cutané</strong> est principalement dû à la <strong>perte de collagène</strong>.</p><p>En l’utilisant <strong>toutes les deux semaines</strong>, vous stimulez naturellement la production de collagène et redonnez à votre peau <strong>fermeté et élasticité</strong>.</p><p>🎯 <strong>Zones ciblées</strong> :<br/><br/>✔ Rides du front<br/><br/>✔ Rides du lion (entre les sourcils)<br/><br/>✔ Pattes d’oie<br/><br/>✔ Rides autour des yeux<br/><br/>✔ Rides du nez (« bunny lines »)<br/><br/>✔ Menton irrégulier (« strawberry chin »)<br/><br/>✔ Sillons nasogéniens<br/><br/>✔ Rides du fumeur (autour de la bouche)<br/><br/>✔ Plis d’amertume (coins des lèvres)<br/><br/>✔ Relâchement du cou (« turkey neck »)</p>"
+            "title": "Est-ce que ça facilite la digestion?",
+            "content": "<p>Oui ! Nomad Zen Fit Yerba Mate contient un mélange de probiotiques et prébiotiques qui soutient la santé intestinale, améliore la digestion et réduit les ballonnements, ce qui le distingue des boissons énergétiques classiques.</p>"
           }
         },
         "item_8MgMBq": {
           "type": "item",
           "settings": {
-            "title": "Quand commencerai-je à voir les résultats ?",
-            "content": "<p><strong>Dès la première séance</strong>, vous constaterez une peau plus <strong>lisse</strong>, plus <strong>rebondie</strong> et mieux <strong>hydratée</strong>.<br/><br/>De nombreux utilisateurs observent même une <strong>réduction visible des rides fines</strong> après une seule application.</p><p>Cependant, les <strong>résultats les plus marquants</strong> apparaissent généralement après <strong>4 à 6 traitements</strong>, soit environ <strong>3 mois</strong> d'utilisation régulière.</p><p>Pourquoi ? Parce que des études ont montré que ce protocole peut <strong>booster la production naturelle de collagène jusqu’à 76 %</strong> au fil du temps.</p><p>Résultat : des <strong>rides, ridules et un relâchement cutané visiblement réduits</strong>.<br/><br/>C’est pour cela que les dermatologues recommandent de suivre le traitement pendant <strong>au moins 12 semaines</strong> pour un effet optimal et durable.</p>"
+            "title": "Combien de temps avant de ressentir les effets?",
+            "content": "<p>La plupart des utilisateurs ressentent un regain d’énergie entre 15 et 30 minutes après avoir bu le Yerba Mate, avec des effets qui durent plusieurs heures sans chute d’énergie.</p>"
           }
         },
         "item_ViLcMq": {
           "type": "item",
           "settings": {
-            "title": "Est-ce efficace pour les hommes?",
-            "content": "<p><strong>Absolument !</strong></p><p>Le <strong>Kit de Micro-Infusion</strong> convient à <strong>tous les types de peau</strong>, et il est <strong>aussi efficace pour les hommes que pour les femmes</strong>.</p><p>Il cible les préoccupations cutanées les plus courantes : <strong>rides, ridules, taches pigmentaires, texture irrégulière</strong>, et ce, <strong>quel que soit le genre</strong>.<br/><br/>Les hommes peuvent profiter des <strong>mêmes bienfaits de régénération et d’amélioration de la peau</strong> que les femmes, une peau plus lisse, plus ferme et visiblement revitalisée.</p>"
+            "title": "Comment préparer le Yerba Mate?",
+            "content": "<p>C’est super simple ! Ajoutez une dose dans de l’eau froide avec des glaçons, mélangez avec un mousseur ou un fouet, puis savourez. Pas besoin d’infuser !</p>"
           }
         },
         "item_QtkJU8": {
           "type": "item",
           "settings": {
-            "title": "Convient-il à tous les types de peau?",
-            "content": "<p><strong>Oui, notre système de micro-infusion est sûr pour tous les types de peau, même les plus sensibles.</strong><br/><br/>En cas de problème de peau important, il est tout de même conseillé de demander l’avis de votre médecin avant utilisation.</p>"
-          }
-        },
-        "item_Rkjy7F": {
-          "type": "item",
-          "settings": {
-            "title": "Dois-je respecter un délai entre chaque utilisation?",
-            "content": "<p><strong>Il n’y a quasiment aucun temps de récupération après l’utilisation du Micro Infusion Kit.</strong><br/><br/>Vous pourriez observer une <strong>légère rougeur</strong> ou une <strong>petite sensibilité</strong> juste après l’application,<br/><br/>mais ces effets disparaissent généralement <strong>en quelques heures à 24 heures maximum</strong>.</p><p>Pour de meilleurs résultats, il est recommandé <strong>d’éviter le maquillage, l’exposition directe au soleil</strong><br/><br/>et les <strong>soins agressifs</strong> pendant <strong>au moins 24 heures</strong>, afin de laisser la peau bien se régénérer.</p>"
-          }
-        },
-        "item_Va4UJY": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je appliquer mes soins habituels après le Micro Infusion Kit?",
-            "content": "<p><strong>Vous pouvez appliquer vos soins habituels dès le soir suivant l’utilisation du Micro Infusion Kit</strong>, notamment les crèmes à base d’<strong>acide hyaluronique</strong>.<br/><br/>Cela aidera à <strong>hydrater</strong> et <strong>apaiser la peau</strong>, tout en <strong>renforçant les effets du traitement</strong>.<br/><br/>L’absorption des produits est d’ailleurs <strong>améliorée jusqu’à 300 %</strong>, ce qui conduit à des résultats encore plus visibles.</p><p><strong>En revanche</strong>, il est important d’<strong>éviter le rétinol</strong> et les ingrédients actifs puissants comme les <strong>acides glycolique ou salicylique</strong> juste après le soin.<br/><br/>Ces produits peuvent être trop agressifs pour une peau fraîchement traitée.</p><p><strong>Attendez 24 à 48 heures</strong> avant de les réintégrer dans votre routine, pour laisser à la peau le temps de bien se rétablir.<br/><br/>Suivez toujours les instructions de soins après traitement pour obtenir des <strong>résultats optimaux</strong>.</p><p>Enfin, <strong>évitez d’appliquer du maquillage</strong> et gardez la peau propre pendant <strong>au moins 12 heures</strong> après l’application.</p>"
-          }
-        },
-        "item_ce7mk6": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que le Micro Infusion Kit aide à atténuer les rides très profondes?",
-            "content": "<p><strong>Oui, le Micro Infusion Kit peut atténuer l’apparence des rides profondes</strong> en stimulant la <strong>production de collagène</strong> et en <strong>réhydratant la peau en profondeur</strong>.</p><p>Cependant, pour les <strong>rides très marquées</strong>, les résultats peuvent prendre plus de temps à apparaître, en général, <strong>3 à 6 mois d’utilisation régulière</strong> sont nécessaires.</p><p><strong>La régularité et la patience</strong> sont les clés pour obtenir des résultats visibles et durables.</p>"
-          }
-        },
-        "item_NUEJqi": {
-          "type": "item",
-          "settings": {
-            "title": "Ce produit aide-t-il à atténuer les cicatrices?",
-            "content": "<p><strong>Oui, le Micro Infusion Kit peut améliorer l’apparence de certaines cicatrices</strong>, notamment les <strong>cicatrices d’acné</strong> ou les <strong>cicatrices superficielles légères</strong>.</p><p>Le microneedling stimule la <strong>production naturelle de collagène</strong>, ce qui aide à <strong>lisser et estomper progressivement</strong> ces marques au fil des utilisations.</p><p>Pour les <strong>cicatrices plus profondes ou sévères</strong>, les résultats peuvent varier d’une personne à l’autre.<br/><br/>Mais soyez rassuré : <strong>notre garantie satisfait ou remboursé de 30 jours s’applique à toutes les commandes</strong>, sans exception.</p>"
-          }
-        },
-        "item_CkDC83": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce facile à appliquer?",
-            "content": "<p>Oui, le <strong>Kit de Micro-Infusion</strong> est simple à utiliser, même si c’est votre première fois.<br/><br/>Chaque séance ne prend que <strong>5 à 10 minutes</strong>.</p><p>Vous recevez :</p><ul><li>un manuel clair,</li><li>des <strong>vidéos étape par étape</strong></li><li>et toutes les explications, de la préparation à l’application, jusqu’aux soins après traitement<br/><br/><strong>Pas besoin d’expérience</strong> : il suffit de suivre les étapes pour obtenir des résultats visibles, dès les premières utilisations.</li></ul>"
-          }
-        },
-        "item_xwJFqn": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle zone peut-on traiter avec un kit?",
-            "content": "<p>Oui, largement.<br/><br/>Chaque traitement contient <strong>assez de sérum pour couvrir le visage et le cou, </strong>avec même un peu de surplus.</p><p>💧 Tu peux l’appliquer en massage après la séance pour booster l’hydratation et l’absorption.</p>"
-          }
-        },
-        "item_xkrFia": {
-          "type": "item",
-          "settings": {
-            "title": "Ingrédients",
-            "content": "<p>Chaque goutte du sérum contient un concentré d’actifs anti-âge hautement efficaces :</p><ul><li>Acide hyaluronique: hydrate et repulpe<br/></li><li>Vitamice C: illumine et unifie le teint<br/></li><li>Collagène: améliore l’élasticité de la peau<br/></li><li> Peptides & Oligopeptides: stimulent la régénération cellulaire<br/></li><li>Centella Asiatica: apaise et répare<br/></li><li>Glycyrrhizine: antioxydante et anti-inflammatoire<br/></li></ul><p>✅ <strong>Sans parabens</strong><br/><br/>✅ <strong>Sans sulfates</strong><br/><br/>✅ <strong>Sans parfum ajouté</strong><br/><br/>✅ <strong>Vegan & 100 % organique</strong></p><p>Une formule clean, douce et efficace même pour les peaux sensibles.</p>"
+            "title": "Et si je n’aime pas?",
+            "content": "<p>Nous croyons en notre produit avec un essai sans risque de 30 jours. Si le Yerba Mate ne vous convient pas, contactez-nous simplement pour un remboursement facile, sans aucune question.</p>"
           }
         }
       },
@@ -1046,14 +969,7 @@
         "item_KLtmLV",
         "item_8MgMBq",
         "item_ViLcMq",
-        "item_QtkJU8",
-        "item_Rkjy7F",
-        "item_Va4UJY",
-        "item_ce7mk6",
-        "item_NUEJqi",
-        "item_CkDC83",
-        "item_xwJFqn",
-        "item_xkrFia"
+        "item_QtkJU8"
       ],
       "name": "FAQ",
       "settings": {
@@ -1110,7 +1026,8 @@
     "main",
     "tabs_R4WgnD",
     "multi_column_7rLr64",
-    "multi_column_AFJjwh",
+    "rich_text_n7UpdE",
+    "media_with_text_HTLhKq",
     "comparaison_pyYYpc",
     "multi_column_ibwf93",
     "faq_y6ACWN",
