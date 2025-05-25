@@ -278,7 +278,7 @@
         "liquid_PW34wa": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style> .rating { display: flex; align-items: center; font-size: 1.3rem; white-space: nowrap; font-family: DIN, DIN NEXT; } .stars { display: flex; } .star { color: #20EC8B; margin-right: -2px; } .rating-text { margin-left: 6px; font-size: 0.9rem; color: black; font-weight: normal; } </style> <div class=\"rating\"> <div class=\"stars\"> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> <span class=\"star\">&#9733;</span> </div> <div class=\"rating-text\"> 4.7/5 · 25,000+ Visages Rajeunis </div> </div>"
+            "liquid": "<style>\n  .rating {\n    display: flex;\n    align-items: center;\n    font-size: 1.3rem;\n    white-space: nowrap;\n    font-family: DIN, DIN NEXT;\n  }\n\n  .stars {\n    display: flex;\n  }\n\n  .star {\n    color: #20EC8B;\n    margin-right: -2px;\n  }\n\n  .rating-text {\n    margin-left: 6px;\n    font-size: 0.9rem;\n    color: black;\n    font-weight: bold; /* Texte en gras */\n  }\n</style>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n  </div>\n  <div class=\"rating-text\">\n    4.7/5 · 25,000+ Visages Rajeunis\n  </div>\n</div>"
           }
         },
         "title": {
