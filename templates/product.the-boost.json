@@ -132,7 +132,7 @@
         "heading_tzgwqr": {
           "type": "heading",
           "settings": {
-            "text": "Régénère ta peau de l’intérieur",
+            "text": "Elles n’ont pas attendu l’été",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -154,14 +154,13 @@
     },
     "video_zmFTfq": {
       "type": "video",
-      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/MicroInfusionAvantAPres (1).mp4",
+        "video": "shopify://files/videos/ThéNomadAvantAPres.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
