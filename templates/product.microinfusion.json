@@ -599,7 +599,7 @@
             "primary_color": "#00cae0",
             "secondary_color": "#803cee",
             "neutral_color": "#1e293b",
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
