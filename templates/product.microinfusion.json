@@ -553,6 +553,42 @@
         "text_color": ""
       }
     },
+    "1748268328402bcae2": {
+      "type": "apps",
+      "blocks": {
+        "tabify_product_comparison_table_PMx6jf": {
+          "type": "shopify://apps/tabify/blocks/product-comparison-table/5e5cddf4-c995-443d-8e6b-f2bf41223d1b",
+          "settings": {
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "title": "",
+            "title_tag": "h3",
+            "title_alignment": "center",
+            "image_size": "md",
+            "image_size_mobile": "md",
+            "image_fit": "contain",
+            "column_title_alignment": "center",
+            "row_title_alignment": "left",
+            "cell_alignment": "center",
+            "primary_color": "#00cae0",
+            "secondary_color": "#803cee",
+            "neutral_color": "#1e293b",
+            "background_color": "transparent"
+          }
+        }
+      },
+      "block_order": [
+        "tabify_product_comparison_table_PMx6jf"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "comparaison_pyYYpc": {
       "type": "COMPARAISON",
       "blocks": {
@@ -1111,6 +1147,7 @@
     "tabs_R4WgnD",
     "multi_column_7rLr64",
     "multi_column_AFJjwh",
+    "1748268328402bcae2",
     "comparaison_pyYYpc",
     "multi_column_ibwf93",
     "faq_y6ACWN",
