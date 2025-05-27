@@ -317,6 +317,12 @@
             "payment_button_text_color": ""
           }
         },
+        "countdown_timer_essential_app_block_mTQnft": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmb74luyg00chhtzkx72qqyyp"
+          }
+        },
         "liquid_7GGqM6": {
           "type": "liquid",
           "settings": {
@@ -344,6 +350,7 @@
         "liquid_tdQJCR",
         "liquid_ntjTPf",
         "buy_buttons",
+        "countdown_timer_essential_app_block_mTQnft",
         "liquid_7GGqM6",
         "liquid_cCzJmG",
         "liquid_CGNtPj"
