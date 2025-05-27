@@ -21,6 +21,20 @@
             "url": ""
           }
         },
+        "message_68XKDN": {
+          "type": "message",
+          "settings": {
+            "text": "3 MOIS + 2 OFFERTS🎁",
+            "url": ""
+          }
+        },
+        "message_Fdh93Q": {
+          "type": "message",
+          "settings": {
+            "text": "2 MOIS + 1 OFFERT 🎁",
+            "url": ""
+          }
+        },
         "message_yLm7XN": {
           "type": "message",
           "settings": {
@@ -38,6 +52,8 @@
       },
       "block_order": [
         "message_MiLbtm",
+        "message_68XKDN",
+        "message_Fdh93Q",
         "message_yLm7XN",
         "message_mXEV8D"
       ],
