@@ -482,6 +482,32 @@
         "text_color": ""
       }
     },
+    "rich_text_G3VeDL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Te9i6B": {
+          "type": "heading",
+          "settings": {
+            "text": "Comment Lunea régénère votre peau en profondeur",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Te9i6B"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_xAUyLH": {
       "type": "media-with-text",
       "blocks": {
@@ -491,11 +517,11 @@
             "image": "shopify://shop_images/14c8166a3f7f4c078d404aa1215e11c3.gif",
             "media_width": 50,
             "media_position": "start",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Comment Lunea régénère votre peau en profondeur",
+            "title": "",
             "content": "<p><strong>Des micro-aiguilles</strong> ultra-fines qui font <strong>pénétrer</strong> le sérum là où la peau en a vraiment besoin : en <strong>profondeur</strong> & formulé avec des actifs <strong>anti-âge</strong> prouvés.<br/>Des études cliniques montrent une <strong>hausse</strong> de <strong>76%</strong> de la production de collagène, soit jusqu’à <strong>10 ans </strong>d’âge cutané en <strong>moins</strong>.</p>",
             "link_text": "",
             "link_url": "",
@@ -511,7 +537,6 @@
       "block_order": [
         "image_ADjzaG"
       ],
-      "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
@@ -929,6 +954,7 @@
     "main",
     "tabs_R4WgnD",
     "multi_column_7rLr64",
+    "rich_text_G3VeDL",
     "media_with_text_xAUyLH",
     "multi_column_AFJjwh",
     "rich_text_7DGyfw",
