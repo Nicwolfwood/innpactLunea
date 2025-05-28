@@ -129,7 +129,7 @@
         "heading_tzgwqr": {
           "type": "heading",
           "settings": {
-            "text": "Le pouvoir de la micro-infusion Lunea",
+            "text": "Effacez les rides & Restaurez l’élasticité de votre peau",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -498,7 +498,6 @@
       "block_order": [
         "heading_Te9i6B"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
