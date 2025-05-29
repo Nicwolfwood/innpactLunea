@@ -23,6 +23,7 @@
         },
         "message_68XKDN": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "🎁3 MOIS + 60 JOURS OFFERTS",
             "url": ""
@@ -30,6 +31,7 @@
         },
         "message_Fdh93Q": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "🎁2 MOIS + 30 JOURS OFFERTS",
             "url": ""
