@@ -64,6 +64,11 @@
         "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "14900259222037449619": {
+        "type": "shopify://apps/chaty-whatsapp-chat-buttons/blocks/chaty/0aaf5812-760f-4dd7-be9b-cca564d8200b",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
