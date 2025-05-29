@@ -90,7 +90,7 @@
           "type": "heading",
           "settings": {
             "text": "Et si votre peau avait droit à une seconde jeunesse ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -130,7 +130,7 @@
           "type": "heading",
           "settings": {
             "text": "D’un teint fatigué à une peau repulpée : 10 secondes qui changent tout",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -489,7 +489,7 @@
           "type": "heading",
           "settings": {
             "text": "Et si votre sérum allait enfin là où votre peau en a vraiment besoin",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -624,7 +624,7 @@
           "type": "heading",
           "settings": {
             "text": "Ce que votre peau mérite : efficacité, douceur, et résultats visibles",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
