@@ -310,6 +310,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_mWUyqX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/zouglou.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "countdown_timer_essential_app_block_mTQnft": {
           "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
@@ -342,6 +350,7 @@
         "liquid_tdQJCR",
         "liquid_ntjTPf",
         "buy_buttons",
+        "image_mWUyqX",
         "countdown_timer_essential_app_block_mTQnft",
         "liquid_7GGqM6",
         "liquid_cCzJmG",
