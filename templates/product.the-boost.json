@@ -528,7 +528,7 @@
       "name": "Timeline",
       "settings": {
         "full_width": true,
-        "background": "",
+        "background": "#faf3be",
         "background_gradient": "",
         "text_color": ""
       }
