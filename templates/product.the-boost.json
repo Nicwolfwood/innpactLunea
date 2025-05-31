@@ -395,8 +395,8 @@
         "tab_YafeMq": {
           "type": "tab",
           "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p><strong>Essayez sans risque pendant 30 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
+            "title": "Essayez-le 90 jours gratuitement",
+            "content": "<p><strong>Essayez sans risque pendant 90 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
             "page": ""
           }
         }
