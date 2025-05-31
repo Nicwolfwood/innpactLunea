@@ -946,8 +946,8 @@
         "subheading": "",
         "title": "Des ingrédients qui font la différence",
         "content": "",
-        "background": "",
-        "background_gradient": "",
+        "background": "#eec6f5",
+        "background_gradient": "radial-gradient(rgba(247, 181, 214, 1), rgba(247, 181, 214, 1))",
         "text_color": ""
       }
     },
