@@ -317,6 +317,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_cCwGQT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROPRANCE_2.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "liquid_7GGqM6": {
           "type": "liquid",
           "settings": {
@@ -343,6 +351,7 @@
         "liquid_tdQJCR",
         "liquid_ntjTPf",
         "buy_buttons",
+        "image_cCwGQT",
         "liquid_7GGqM6",
         "liquid_cCzJmG",
         "liquid_9jeD4e"
