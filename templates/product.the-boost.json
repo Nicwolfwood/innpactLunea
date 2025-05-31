@@ -476,6 +476,63 @@
         "text_color": ""
       }
     },
+    "timeline_MNxH9Y": {
+      "type": "timeline",
+      "blocks": {
+        "slide_3az8dk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE7.png",
+            "navigation_label": "Semaine 1",
+            "subheading": "",
+            "title": "Sentez ce petit coup de mieux",
+            "content": "<p>Nos utilisatrices parlent d’un regain d’énergie, d’une sensation de légèreté, et d’une nette réduction des ballonnements et fringales dès la première semaine.</p>"
+          }
+        },
+        "slide_zMPcwN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE9.png",
+            "navigation_label": "Semaine 2",
+            "subheading": "Subheading",
+            "title": "Moins de ballonnements & Moins d’envies",
+            "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
+          }
+        },
+        "slide_qHyqme": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE8.png",
+            "navigation_label": "Semaine 3",
+            "subheading": "",
+            "title": "Clarté mentale & Vitalité constante",
+            "content": "<p><strong>Travaille avec clarté, avance avec calme.</strong><br/><br/>Grâce au duo naturel <strong>Lion’s Mane + L-Théanine</strong>, tu penses plus vite, tu restes ancré, et tu gardes ton énergie sans les hauts et les bas.</p>"
+          }
+        },
+        "slide_TrWNzA": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "Semaine 4",
+            "subheading": "",
+            "title": "Taille Affinée & Pantalon plus confortable",
+            "content": "<p>Quand tes hormones s’équilibrent et que ton ventre se relâche, les gonflements disparaissent peu à peu… et cette fameuse bouée finit enfin par fondre.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3az8dk",
+        "slide_zMPcwN",
+        "slide_qHyqme",
+        "slide_TrWNzA"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_n7UpdE": {
       "type": "rich-text",
       "blocks": {
@@ -824,7 +881,7 @@
         "item_hktMqe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/cafeineyerbamate.png",
+            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_69b2737b-b88e-48f0-9f59-01aa1e787193.jpg",
             "column_size": "3",
             "title": "Caféine de Yerba mate",
             "heading_tag": "h4",
@@ -837,7 +894,7 @@
         "item_RpUnig": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/LIONSMANE.png",
+            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_c3634de9-cdd7-4068-92b0-928a61a78129.jpg",
             "column_size": "3",
             "title": "Champignon Lion’s Mane",
             "heading_tag": "h4",
@@ -850,7 +907,7 @@
         "item_jhPwgY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/L-Theanine.png",
+            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_a6f54498-c22c-4981-a6da-2aa4184df7fb.jpg",
             "column_size": "3",
             "title": "L-Théanine",
             "heading_tag": "h4",
@@ -863,7 +920,7 @@
         "item_tdBE7K": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/pre_probiotic.png",
+            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_b584e100-dbcd-421b-9344-c98352e8654e.jpg",
             "column_size": "3",
             "title": "Pro + prébiotiques",
             "heading_tag": "h4",
@@ -998,63 +1055,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "timeline_MNxH9Y": {
-      "type": "timeline",
-      "blocks": {
-        "slide_3az8dk": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NOMADTHE7.png",
-            "navigation_label": "Semaine 1",
-            "subheading": "",
-            "title": "Sentez ce petit coup de mieux",
-            "content": "<p>Nos utilisatrices parlent d’un regain d’énergie, d’une sensation de légèreté, et d’une nette réduction des ballonnements et fringales dès la première semaine.</p>"
-          }
-        },
-        "slide_zMPcwN": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NOMADTHE9.png",
-            "navigation_label": "Semaine 2",
-            "subheading": "Subheading",
-            "title": "Moins de ballonnements & Moins d’envies",
-            "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
-          }
-        },
-        "slide_qHyqme": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/NOMADTHE8.png",
-            "navigation_label": "Semaine 3",
-            "subheading": "",
-            "title": "Clarté mentale & Vitalité constante",
-            "content": "<p><strong>Travaille avec clarté, avance avec calme.</strong><br/><br/>Grâce au duo naturel <strong>Lion’s Mane + L-Théanine</strong>, tu penses plus vite, tu restes ancré, et tu gardes ton énergie sans les hauts et les bas.</p>"
-          }
-        },
-        "slide_TrWNzA": {
-          "type": "slide",
-          "settings": {
-            "navigation_label": "Semaine 4",
-            "subheading": "",
-            "title": "Taille Affinée & Pantalon plus confortable",
-            "content": "<p>Quand tes hormones s’équilibrent et que ton ventre se relâche, les gonflements disparaissent peu à peu… et cette fameuse bouée finit enfin par fondre.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_3az8dk",
-        "slide_zMPcwN",
-        "slide_qHyqme",
-        "slide_TrWNzA"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -1068,12 +1068,12 @@
     "main",
     "tabs_R4WgnD",
     "multi_column_7rLr64",
+    "timeline_MNxH9Y",
     "rich_text_n7UpdE",
     "media_with_text_HTLhKq",
     "comparaison_pyYYpc",
     "multi_column_ibwf93",
     "faq_y6ACWN",
-    "17472222523acc8762",
-    "timeline_MNxH9Y"
+    "17472222523acc8762"
   ]
 }
