@@ -1005,6 +1005,7 @@
         "slide_3az8dk": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/NOMADTHE7.png",
             "navigation_label": "Semaine 1",
             "subheading": "",
             "title": "Sentez ce petit coup de mieux",
@@ -1014,6 +1015,7 @@
         "slide_zMPcwN": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/NOMADTHE9.png",
             "navigation_label": "Semaine 2",
             "subheading": "Subheading",
             "title": "Moins de ballonnements & Moins d’envies",
@@ -1023,6 +1025,7 @@
         "slide_qHyqme": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/NOMADTHE8.png",
             "navigation_label": "Semaine 3",
             "subheading": "",
             "title": "Clarté mentale & Vitalité constante",
