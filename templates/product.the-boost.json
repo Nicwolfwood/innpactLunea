@@ -494,7 +494,7 @@
           "settings": {
             "image": "shopify://shop_images/NOMADTHE9.png",
             "navigation_label": "Semaine 2",
-            "subheading": "Subheading",
+            "subheading": "",
             "title": "Moins de ballonnements & Moins d’envies",
             "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
           }
