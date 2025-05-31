@@ -321,8 +321,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PROPRANCE_2.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
+          }
+        },
+        "countdown_timer_essential_app_block_cPxK9e": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
           }
         },
         "liquid_7GGqM6": {
@@ -352,6 +358,7 @@
         "liquid_ntjTPf",
         "buy_buttons",
         "image_cCwGQT",
+        "countdown_timer_essential_app_block_cPxK9e",
         "liquid_7GGqM6",
         "liquid_cCzJmG",
         "liquid_9jeD4e"
