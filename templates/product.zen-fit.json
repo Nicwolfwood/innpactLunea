@@ -358,6 +358,63 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_dU46W7": {
+      "type": "tabs",
+      "blocks": {
+        "tab_UjBmrg": {
+          "type": "tab",
+          "settings": {
+            "title": "Appuyé par la science",
+            "content": "<p><strong>🌿 Nomad Zen Fit: Énergie propre, esprit clair, digestion légère.</strong></p><p>Une boisson fonctionnelle qui remplace le café, apaise l’esprit, et allège la digestion.<br/>Formulée avec des actifs naturels validés par la science, pour nourrir votre corps <strong>sans pic de stress ni crash d’énergie</strong>.<br/><br/>✅ <strong>Yerba Maté</strong> : une énergie progressive, sans nervosité ni coup de barre — avec des antioxydants pour soutenir l’immunité.</p><p>✅ <strong>Lion’s Mane</strong> : reconnu pour stimuler la mémoire, la concentration et protéger le cerveau.</p><p>✅ <strong>L-Théanine</strong> : pour un focus calme, sans agitation, même en période de stress.</p><p>✅ <strong>Pro + Prébiotiques</strong> : <br/>équilibre la flore intestinale, réduit les ballonnements et améliore la digestion dès les premières prises.</p><p><strong>→ Mieux qu’un café, plus qu’un thé.</strong> Une routine bien-être qui vous aligne.</p>",
+            "page": ""
+          }
+        },
+        "tab_FMtPmC": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_7AUiB4": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_aaA7EX": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_UjBmrg",
+        "tab_FMtPmC",
+        "tab_7AUiB4",
+        "tab_aaA7EX"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "left",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -368,6 +425,7 @@
     "rich_text_YNUHfm",
     "video_3fFNEn",
     "multi_column_7PranV",
-    "main"
+    "main",
+    "tabs_dU46W7"
   ]
 }
