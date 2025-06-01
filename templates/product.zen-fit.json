@@ -389,8 +389,16 @@
         "tab_aaA7EX": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Essayez-le 90 jours gratuitement",
+            "content": "<p><strong>Essayez sans risque pendant 90 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_YTeih3": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse/ <strong>contact@movenomad.com</strong></p>",
             "page": ""
           }
         }
@@ -399,7 +407,8 @@
         "tab_UjBmrg",
         "tab_FMtPmC",
         "tab_7AUiB4",
-        "tab_aaA7EX"
+        "tab_aaA7EX",
+        "tab_YTeih3"
       ],
       "name": "Tabs",
       "settings": {
