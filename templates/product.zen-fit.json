@@ -650,7 +650,7 @@
             "row_title_alignment": "left",
             "cell_alignment": "center",
             "primary_color": "#eec6f5",
-            "secondary_color": "#faf3be",
+            "secondary_color": "#ffb74a",
             "neutral_color": "#1e293b",
             "background_color": "rgba(0,0,0,0)"
           }
