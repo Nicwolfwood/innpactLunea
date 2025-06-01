@@ -596,6 +596,32 @@
         "alternate_media_position": false,
         "spacing": "small"
       }
+    },
+    "rich_text_YC3iy4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_an3hPn": {
+          "type": "heading",
+          "settings": {
+            "text": "Ce que LUNEA fait (et que les autres ne font pas).",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_an3hPn"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -611,6 +637,7 @@
     "multi_column_xb3eGw",
     "timeline_gMcMAj",
     "rich_text_CwF7CL",
-    "media_with_text_EXngdp"
+    "media_with_text_EXngdp",
+    "rich_text_YC3iy4"
   ]
 }
