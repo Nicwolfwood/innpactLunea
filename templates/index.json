@@ -28,8 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/MICRObaniiere_2.png",
-        "mobile_image": "shopify://shop_images/MICRObaniiere_1300_x_1500_px_1.png",
+        "image": "shopify://shop_images/THEBANNIERE.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -43,7 +42,6 @@
         "testimonial_nFGwz7": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1000024940.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -55,7 +53,6 @@
         "testimonial_iYHtaF": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/1000011469_1_1_1.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -67,7 +64,6 @@
         "testimonial_TR4LPX": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/nikmok_1.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -108,7 +104,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
-        "background": "#00cae0",
+        "background": "#69467b",
         "background_gradient": "",
         "text_color": "#faf8f5",
         "text_gradient": ""
@@ -120,7 +116,6 @@
         "image_9eRTYV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/14c8166a3f7f4c078d404aa1215e11c3.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
