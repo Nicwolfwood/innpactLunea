@@ -632,6 +632,42 @@
         "text_color": ""
       }
     },
+    "1748775929315d5379": {
+      "type": "apps",
+      "blocks": {
+        "tabify_product_comparison_table_6LwW99": {
+          "type": "shopify://apps/tabify/blocks/product-comparison-table/5e5cddf4-c995-443d-8e6b-f2bf41223d1b",
+          "settings": {
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "title": "",
+            "title_tag": "h3",
+            "title_alignment": "center",
+            "image_size": "md",
+            "image_size_mobile": "md",
+            "image_fit": "contain",
+            "column_title_alignment": "center",
+            "row_title_alignment": "left",
+            "cell_alignment": "center",
+            "primary_color": "#69467b",
+            "secondary_color": "#faf3be",
+            "neutral_color": "#1e293b",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "tabify_product_comparison_table_6LwW99"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_4nxBA4": {
       "type": "multi-column",
       "blocks": {
@@ -791,42 +827,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "1748775929315d5379": {
-      "type": "apps",
-      "blocks": {
-        "tabify_product_comparison_table_6LwW99": {
-          "type": "shopify://apps/tabify/blocks/product-comparison-table/5e5cddf4-c995-443d-8e6b-f2bf41223d1b",
-          "settings": {
-            "spacing_top": 0,
-            "spacing_bottom": 0,
-            "title": "",
-            "title_tag": "h3",
-            "title_alignment": "center",
-            "image_size": "md",
-            "image_size_mobile": "md",
-            "image_fit": "contain",
-            "column_title_alignment": "center",
-            "row_title_alignment": "left",
-            "cell_alignment": "center",
-            "primary_color": "#69467b",
-            "secondary_color": "#000000",
-            "neutral_color": "#1e293b",
-            "background_color": "transparent"
-          }
-        }
-      },
-      "block_order": [
-        "tabify_product_comparison_table_6LwW99"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
