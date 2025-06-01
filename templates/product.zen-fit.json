@@ -698,6 +698,91 @@
         "background_gradient": "linear-gradient(270deg, rgba(247, 181, 214, 1), rgba(250, 243, 190, 1) 100%)",
         "text_color": ""
       }
+    },
+    "faq_h43fHJ": {
+      "type": "faq",
+      "blocks": {
+        "item_7kkdGV": {
+          "type": "item",
+          "settings": {
+            "title": "Quel goût a le yerba mate?",
+            "content": "<p>Le yerba mate offre une saveur douce et rafraîchissante avec de subtiles notes de yerba mate et d’extraits naturels de fruits. Légèrement terreuse, elle reste légère et facile à boire, parfaite pour les novices comme les amateurs de thé.</p>"
+          }
+        },
+        "item_R89enx": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle quantité de caféine contient-il?",
+            "content": "<p>Chaque portion contient 100 mg de caféine naturelle issue du Yerba Mate, offrant un regain d’énergie constant sans nervosité ni coup de fatigue comme avec le café.</p>"
+          }
+        },
+        "item_n88RP8": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je en boire tous les jours?",
+            "content": "<p>Oui ! Le Yerba Mate est conçu pour une consommation quotidienne et peut se boire le matin pour un coup de boost, l’après-midi pour retrouver de l’énergie, ou avant l’entraînement.</p>"
+          }
+        },
+        "item_FiiRg8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça facilite la digestion?",
+            "content": "<p>Oui ! Nomad Zen Fit Yerba Mate contient un mélange de probiotiques et prébiotiques qui soutient la santé intestinale, améliore la digestion et réduit les ballonnements, ce qui le distingue des boissons énergétiques classiques.</p>"
+          }
+        },
+        "item_4ADiji": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps avant de ressentir les effets?",
+            "content": "<p>La plupart des utilisateurs ressentent un regain d’énergie entre 15 et 30 minutes après avoir bu le Yerba Mate, avec des effets qui durent plusieurs heures sans chute d’énergie.</p>"
+          }
+        },
+        "item_wKd3Qb": {
+          "type": "item",
+          "settings": {
+            "title": "Comment préparer le Yerba Mate?",
+            "content": "<p>C’est super simple ! Ajoutez une dose dans de l’eau froide avec des glaçons, mélangez avec un mousseur ou un fouet, puis savourez. Pas besoin d’infuser !</p>"
+          }
+        },
+        "item_LdWVT4": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je n’aime pas?",
+            "content": "<p>Nous croyons en notre produit avec un essai sans risque de 30 jours. Si le Yerba Mate ne vous convient pas, contactez-nous simplement pour un remboursement facile, sans aucune question.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7kkdGV",
+        "item_R89enx",
+        "item_n88RP8",
+        "item_FiiRg8",
+        "item_4ADiji",
+        "item_wKd3Qb",
+        "item_LdWVT4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -715,6 +800,7 @@
     "rich_text_CwF7CL",
     "media_with_text_EXngdp",
     "rich_text_YC3iy4",
-    "multi_column_4nxBA4"
+    "multi_column_4nxBA4",
+    "faq_h43fHJ"
   ]
 }
