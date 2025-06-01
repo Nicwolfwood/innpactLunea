@@ -209,12 +209,54 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_Ke3edD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS4_1.png",
+            "column_size": "3",
+            "title": "Danielle V.",
+            "heading_tag": "h4",
+            "content": "<p>\"Nomad Yerba Maté me <strong>booste</strong> sans nervosité, sans ballonnements. Le goût est top, et ma digestion est <strong>plus légère.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6r7YUT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS5_2.png",
+            "column_size": "3",
+            "title": "Julie A.",
+            "heading_tag": "h4",
+            "content": "<p>\"J’ai besoin <strong>d’énergie</strong> et de <strong>clarté mentale</strong>. Ce thé me garde <strong>focus</strong>, et je me <strong>sens vraiment bien</strong>.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3D49EA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS6_2.png",
+            "column_size": "3",
+            "title": "Isabelle B.",
+            "heading_tag": "h4",
+            "content": "<p>\"Le goût m’a vraiment surprise ! Depuis que<strong> je le prends</strong> après mes repas,<strong> je me sens légère</strong>, <strong>plus de sensation de lourdeur</strong>.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_pc7jt3",
         "item_pYVjiD",
-        "item_8fKqpf"
+        "item_8fKqpf",
+        "item_Ke3edD",
+        "item_6r7YUT",
+        "item_3D49EA"
       ],
       "name": "Multi-column",
       "settings": {
