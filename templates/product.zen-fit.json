@@ -373,16 +373,16 @@
         "tab_FMtPmC": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Composition",
+            "content": "<p>🧪 <strong>Ce que contient chaque sachet de </strong><em><strong>Nomad Zen Fit</strong></em></p><ul><li><strong>Portion</strong> : 1 sachet (env. 5 g)</li><li><strong>Portions par boîte</strong> : 30</li><li><strong>Calories</strong> : 40 | <strong>Sucres</strong> : &lt; 2 g</li><li><strong>Caféine naturelle</strong> : 100 mg (Yerba Maté)</li></ul><p><br/>🌿 <strong>Ingrédients actifs & bienfaits</strong></p><p><strong>Mélange de fibres (Prébiotiques + Probiotiques) – 2000 mg</strong></p><ul><li>Inuline de chicorée</li><li>Fibre de pomme</li><li>Pectine d'agrumes</li><li>Fibre de pois</li><li>Champignon Lion's Mane (1000mg)</li><li>Yerba Maté (500 mg)</li><li>L-Théanine (100 mg)</li></ul><p>🌱 <strong>Autres ingrédients naturels:</strong></p><p>Allulose, sucre de canne bio, arômes naturels, acide citrique, silice, extrait de stévia, stévia rebaudioside A bio</p>",
             "page": ""
           }
         },
         "tab_7AUiB4": {
           "type": "tab",
           "settings": {
-            "title": "Tab",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Qu'est-ce que le GLP-1?",
+            "content": "<p>Le GLP-1 est une hormone libérée après un repas.<br/>Elle aide à <strong>réduire la faim</strong>, <strong>ralentir la digestion</strong> et <strong>réguler le sucre dans le sang</strong>.<br/>Certaines plantes ou solutions naturelles peuvent la stimuler, ce qui favorise la <strong>perte de poids</strong> et un <strong>meilleur contrôle de l’appétit</strong>.</p><p>Concrètement, le GLP-1 aide à :</p><ul><li><strong>Réduire la sensation de faim</strong></li><li><strong>Ralentir la vidange de l'estomac </strong>(ce qui ralentit la sensation de satiété)</li><li><strong>Stimuler la production d'insuline </strong></li></ul>",
             "page": ""
           }
         },
