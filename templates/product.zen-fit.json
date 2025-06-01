@@ -85,6 +85,151 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_rFcYn6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NHAzBe": {
+          "type": "heading",
+          "settings": {
+            "text": "Pas juste un thé, Une nouvelle façon d’avancer.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_NHAzBe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_ztJkrY": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices_7.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_YNUHfm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wdJjtr": {
+          "type": "heading",
+          "settings": {
+            "text": "Un thé, un déclic : ventre plat, esprit clair",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wdJjtr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_3fFNEn": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ThéNomadAvantAPres.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_7PranV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pc7jt3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS1_2.png",
+            "column_size": "3",
+            "title": "Claire I.",
+            "heading_tag": "h4",
+            "content": "<p>\"Je prends Nomad depuis quelques semaines, j’ai clairement moins d’envies, mon appétit est bien plus stable, et aucun effet secondaire.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pYVjiD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS2_1.png",
+            "column_size": "3",
+            "title": "Marina S.",
+            "heading_tag": "h4",
+            "content": "<p>\"<strong>Maman de deux enfants</strong>, j’ai enfin <strong>repris le contrôle sur mes envies</strong>. Moins de ballonnements, <strong>plus de légèreté</strong>… et surtout, ce<strong> petit moment à moi</strong> chaque jour.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8fKqpf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS3_4.png",
+            "column_size": "3",
+            "title": "Emilie F.",
+            "heading_tag": "h4",
+            "content": "<p>\"Avec Nomad Zen Fit, mes envies ont disparu… et sans rien changer à mon alimentation, j’ai perdu <strong>4 tailles</strong>. C’est le seul qui a vraiment marché pour moi.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pc7jt3",
+        "item_pYVjiD",
+        "item_8fKqpf"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Elles en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -176,6 +321,11 @@
   "order": [
     "image_with_text_overlay_NwLjbF",
     "logo_list_99txJr",
+    "rich_text_rFcYn6",
+    "image_with_text_overlay_ztJkrY",
+    "rich_text_YNUHfm",
+    "video_3fFNEn",
+    "multi_column_7PranV",
     "main"
   ]
 }
