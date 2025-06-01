@@ -541,7 +541,7 @@
       "settings": {
         "full_width": true,
         "background": "#faf3be",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(102deg, rgba(238, 198, 245, 1), rgba(249, 208, 163, 1) 100%)",
         "text_color": ""
       }
     },
