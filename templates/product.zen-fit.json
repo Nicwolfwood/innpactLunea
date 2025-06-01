@@ -178,7 +178,7 @@
             "column_size": "3",
             "title": "Claire I.",
             "heading_tag": "h4",
-            "content": "<p>\"Je prends Nomad depuis quelques semaines, j’ai clairement moins d’envies, mon appétit est bien plus stable, et aucun effet secondaire.\"</p>",
+            "content": "<p>\"Je prends Nomad depuis quelques semaines, j’ai clairement <strong>moins d’envies</strong>, mon appétit est bien <strong>plus stable</strong>, et <strong>aucun effet secondaire</strong>.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
