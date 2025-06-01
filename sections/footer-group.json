@@ -19,7 +19,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Rejoins la team Lunea",
+            "title": "Rejoins la team Nomad",
             "content": "<p>Accédez en exclusivité à nos nouvelles collections, offres spéciales et bien plus encore.</p>"
           }
         },
@@ -35,15 +35,15 @@
           "type": "text",
           "settings": {
             "title": "CONTACTEZ-NOUS",
-            "content": "<p>Nous sommes là pour vous aider ! Notre équipe est disponible et vous répondra dans les 12h : <strong>contact@thelunea.com</strong></p>",
+            "content": "<p>Nous sommes là pour vous aider ! Notre équipe est disponible et vous répondra dans les 12h : <strong>contact@movenomad.com</strong></p>",
             "enable_follow_on_shop": false
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "LUNEA.",
-            "content": "<p><strong>DES RIDES EN MOINS.</strong></p><p></p>",
+            "title": "NOMAD.",
+            "content": "<p></p><p></p>",
             "enable_follow_on_shop": false
           }
         }
