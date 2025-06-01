@@ -9,6 +9,82 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_NwLjbF": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/THEBANNIERE.png",
+        "mobile_image": "shopify://shop_images/THEBANNIERE_1300_x_1500_px_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_99txJr": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RtRep9": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLLELELELELELELELELELE.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_TRqciV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/MARIECLAAAAAIRE.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_4teWaY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_bywNCH": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUYVOGA.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RtRep9",
+        "logo_TRqciV",
+        "logo_4teWaY",
+        "logo_bywNCH"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -98,6 +174,8 @@
     }
   },
   "order": [
+    "image_with_text_overlay_NwLjbF",
+    "logo_list_99txJr",
     "main"
   ]
 }
