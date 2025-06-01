@@ -415,6 +415,126 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "multi_column_xb3eGw": {
+      "type": "multi-column",
+      "blocks": {
+        "item_b8VG3m": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7507671196947778838_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_i3X7Yn": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7507672065613352214_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PeDVPC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/snaptik_7507671297426689303_hd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_b8VG3m",
+        "item_i3X7Yn",
+        "item_PeDVPC"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Essayé pour le goût... Gardé pour le ventre plat",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_gMcMAj": {
+      "type": "timeline",
+      "blocks": {
+        "slide_tdz4wT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE7.png",
+            "navigation_label": "Semaine 1",
+            "subheading": "",
+            "title": "Sentez ce petit coup de mieux",
+            "content": "<p>Nos utilisatrices parlent d’un regain d’énergie, d’une sensation de légèreté, et d’une nette réduction des ballonnements et fringales dès la première semaine.</p>"
+          }
+        },
+        "slide_H8Leyi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE8.png",
+            "navigation_label": "Semaine 2",
+            "subheading": "",
+            "title": "Moins de ballonnements & Moins d’envies",
+            "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
+          }
+        },
+        "slide_NJ7MJc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_NOMAAMAADTHE.png",
+            "navigation_label": "Semaine 3",
+            "subheading": "",
+            "title": "Clarté mentale & Vitalité constante",
+            "content": "<p><strong>Travaille avec clarté, avance avec calme.</strong><br/>Grâce au duo naturel <strong>Lion’s Mane + L-Théanine</strong>, tu penses plus vite, tu restes ancré, et tu gardes ton énergie sans les hauts et les bas.</p>"
+          }
+        },
+        "slide_TyCi63": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/NOMADTHE9.png",
+            "navigation_label": "Semaine 4",
+            "subheading": "",
+            "title": "Taille Affinée & Pantalon plus confortable",
+            "content": "<p>Quand tes hormones s’équilibrent et que ton ventre se relâche, les gonflements disparaissent peu à peu… et cette fameuse bouée finit enfin par fondre.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tdz4wT",
+        "slide_H8Leyi",
+        "slide_NJ7MJc",
+        "slide_TyCi63"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "#faf3be",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -426,6 +546,8 @@
     "video_3fFNEn",
     "multi_column_7PranV",
     "main",
-    "tabs_dU46W7"
+    "tabs_dU46W7",
+    "multi_column_xb3eGw",
+    "timeline_gMcMAj"
   ]
 }
