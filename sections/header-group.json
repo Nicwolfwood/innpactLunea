@@ -16,6 +16,7 @@
       "blocks": {
         "message_MiLbtm": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "🎁 -50% FÊTE DES MERES : DERNIERS JOURS POUR BRILLER",
             "url": ""
@@ -23,17 +24,15 @@
         },
         "message_68XKDN": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "🎁3 MOIS + 60 JOURS OFFERTS",
+            "text": "🎁2 ACHETES = 1 OFFERT",
             "url": ""
           }
         },
         "message_Fdh93Q": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "🎁2 MOIS + 30 JOURS OFFERTS",
+            "text": "🎁3 ACHETES = 2 OFFERTS",
             "url": ""
           }
         },
