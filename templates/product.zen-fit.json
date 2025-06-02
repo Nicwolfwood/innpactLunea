@@ -275,6 +275,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_wtThKF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-family: sans-serif; font-size: 16px; font-weight: bold;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0943/4962/3631/files/stars-5.png?v=1748865944\" alt=\"4.8 stars\" style=\"height: 24px; margin-right: 8px;\">\n  <span>4.8/5 <span style=\"font-weight: 500;\"> \n   Adopté par 1,183+ clientes</span></span>\n</div>"
+          }
+        },
         "liquid_yHEqAd": {
           "type": "liquid",
           "settings": {
@@ -332,6 +338,7 @@
         }
       },
       "block_order": [
+        "liquid_wtThKF",
         "liquid_yHEqAd",
         "title",
         "liquid_aLnVCi",
