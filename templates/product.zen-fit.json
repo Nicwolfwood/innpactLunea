@@ -275,16 +275,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "liquid_wtThKF": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; font-family: sans-serif; font-size: 16px; font-weight: bold;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0943/4962/3631/files/stars-5.png?v=1748865944\" alt=\"4.8 stars\" style=\"height: 24px; margin-right: 8px;\">\n  <span>4.8/5 <span style=\"font-weight: 500;\"> \n   Adopté par 1,183+ clientes</span></span>\n</div>"
-          }
-        },
         "liquid_yHEqAd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n@font-face {\n  font-family: 'DIN Next';\n  src: url('/fonts/DINNext-Regular.woff2') format('woff2'),\n       url('/fonts/DINNext-Regular.woff') format('woff');\n  font-weight: normal;\n  font-style: normal;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  font-size: 1.3rem;\n  white-space: nowrap;\n  font-family: 'DIN Next', sans-serif;\n}\n\n.stars {\n  display: flex;\n}\n\n.star {\n  color: #20EC8B;\n  margin-right: -2px;\n}\n\n.rating-text {\n  margin-left: 6px;\n  font-size: 0.9rem;\n  color: black;\n  font-weight: normal;\n}\n</style>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n  </div>\n  <div class=\"rating-text\"> 4.82/5 · par 1,100+ clientes </div>\n</div>"
+            "liquid": "<style>\n@font-face {\n  font-family: 'DIN Next';\n  src: url('/fonts/DINNext-Regular.woff2') format('woff2'),\n       url('/fonts/DINNext-Regular.woff') format('woff');\n  font-weight: normal;\n  font-style: normal;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  font-size: 1.3rem;\n  white-space: nowrap;\n  font-family: 'DIN Next', sans-serif;\n}\n\n.stars {\n  display: flex;\n}\n\n.star {\n  color: #20EC8B;\n  margin-right: -2px;\n}\n\n.rating-text {\n  margin-left: 6px;\n  font-size: 0.9rem;\n  color: black;\n  font-weight: normal;\n}\n</style>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n  </div>\n  <div class=\"rating-text\"> 4.82/5 · Adopté par 1,183+ clientes </div>\n</div>"
           }
         },
         "title": {
@@ -338,7 +332,6 @@
         }
       },
       "block_order": [
-        "liquid_wtThKF",
         "liquid_yHEqAd",
         "title",
         "liquid_aLnVCi",
