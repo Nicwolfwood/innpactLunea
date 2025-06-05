@@ -189,7 +189,7 @@
         "item_pYVjiD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ZITAVIS2.png",
+            "image": "shopify://shop_images/ZITAVIS3.png",
             "column_size": "3",
             "title": "Laura S.",
             "heading_tag": "h4",
@@ -202,11 +202,11 @@
         "item_8fKqpf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS3_4.png",
+            "image": "shopify://shop_images/ZITAVIS2_a4a6d2e7-d532-4525-b699-b89f27876bdc.png",
             "column_size": "3",
             "title": "Emilie F.",
             "heading_tag": "h4",
-            "content": "<p>\"Avec Nomad Zen Fit, mes envies ont disparu… et sans rien changer à mon alimentation, j’ai perdu <strong>4 tailles</strong>. C’est le seul qui a vraiment marché pour moi.\"</p>",
+            "content": "<p>\"Je perdais des poignées de cheveux. Après 1 mois, ma chute a<strong> ralenti de moitié</strong>. Je revis.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
