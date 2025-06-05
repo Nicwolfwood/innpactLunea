@@ -1,0 +1,881 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_NwLjbF": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/THEBANNIERE.png",
+        "mobile_image": "shopify://shop_images/THEBANNIERE_1300_x_1500_px_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_99txJr": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RtRep9": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLLELELELELELELELELELE.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_TRqciV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/MARIECLAAAAAIRE.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_4teWaY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        },
+        "logo_bywNCH": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUYVOGA.png",
+            "logo_width": 70,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RtRep9",
+        "logo_TRqciV",
+        "logo_4teWaY",
+        "logo_bywNCH"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_rFcYn6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NHAzBe": {
+          "type": "heading",
+          "settings": {
+            "text": "Pas juste un thé, une nouvelle façon d’avancer.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_NHAzBe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_ztJkrY": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices_7.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_YNUHfm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wdJjtr": {
+          "type": "heading",
+          "settings": {
+            "text": "Un thé, un déclic : ventre plat, esprit clair",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wdJjtr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_3fFNEn": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/ThéNomadAvantAPres.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_7PranV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pc7jt3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS1_2.png",
+            "column_size": "3",
+            "title": "Claire I.",
+            "heading_tag": "h4",
+            "content": "<p>\"Je prends Nomad depuis quelques semaines, j’ai clairement <strong>moins d’envies</strong>, mon appétit est bien <strong>plus stable</strong>, et <strong>aucun effet secondaire</strong>.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pYVjiD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS2_1.png",
+            "column_size": "3",
+            "title": "Marina S.",
+            "heading_tag": "h4",
+            "content": "<p>\"<strong>Maman de deux enfants</strong>, j’ai enfin <strong>repris le contrôle sur mes envies</strong>. Moins de ballonnements, <strong>plus de légèreté</strong>… et surtout, ce<strong> petit moment à moi</strong> chaque jour.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8fKqpf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS3_4.png",
+            "column_size": "3",
+            "title": "Emilie F.",
+            "heading_tag": "h4",
+            "content": "<p>\"Avec Nomad Zen Fit, mes envies ont disparu… et sans rien changer à mon alimentation, j’ai perdu <strong>4 tailles</strong>. C’est le seul qui a vraiment marché pour moi.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Ke3edD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS4_1.png",
+            "column_size": "3",
+            "title": "Danielle V.",
+            "heading_tag": "h4",
+            "content": "<p>\"Nomad Yerba Maté me <strong>booste</strong> sans nervosité, sans ballonnements. Le goût est top, et ma digestion est <strong>plus légère.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6r7YUT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS5_2.png",
+            "column_size": "3",
+            "title": "Julie A.",
+            "heading_tag": "h4",
+            "content": "<p>\"J’ai besoin <strong>d’énergie</strong> et de <strong>clarté mentale</strong>. Ce thé me garde <strong>focus</strong>, et je me <strong>sens vraiment bien</strong>.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3D49EA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVIS6_2.png",
+            "column_size": "3",
+            "title": "Isabelle B.",
+            "heading_tag": "h4",
+            "content": "<p>\"Le goût m’a vraiment surprise ! Depuis que<strong> je le prends</strong> après mes repas,<strong> je me sens légère</strong>, <strong>plus de sensation de lourdeur</strong>.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pc7jt3",
+        "item_pYVjiD",
+        "item_8fKqpf",
+        "item_Ke3edD",
+        "item_6r7YUT",
+        "item_3D49EA"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Elles en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_yHEqAd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n@font-face {\n  font-family: 'DIN Next';\n  src: url('/fonts/DINNext-Regular.woff2') format('woff2'),\n       url('/fonts/DINNext-Regular.woff') format('woff');\n  font-weight: normal;\n  font-style: normal;\n}\n\n.rating {\n  display: flex;\n  align-items: center;\n  font-size: 1.3rem;\n  white-space: nowrap;\n  font-family: 'DIN Next', sans-serif;\n}\n\n.stars {\n  display: flex;\n}\n\n.star {\n  color: #00b67a;\n  margin-right: -2px;\n}\n\n.rating-text {\n  margin-left: 6px;\n  font-size: 0.9rem;\n  color: black;\n  font-weight: normal;\n}\n\n.rating-text b {\n  font-weight: bold;\n}\n</style>\n\n<div class=\"rating\">\n  <div class=\"stars\">\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n    <span class=\"star\">&#9733;</span>\n  </div>\n  <div class=\"rating-text\"><b>4.82/5</b> · <b>Adopté par 1,183+ clientes</b></div>\n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_aLnVCi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .urgency-banner {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background-color: #ffcccc;\n    border-radius: 8px;\n    padding: 6px 12px;\n    margin: 10px auto;\n    max-width: 320px;\n    font-size: 13px;\n    color: #AD0000;\n    font-weight: 500;\n  }\n\n  .urgency-banner .blink {\n    animation: blink-animation 1.2s steps(2, start) infinite;\n    color: red;\n    margin-right: 8px;\n    font-size: 12px;\n  }\n\n  @keyframes blink-animation {\n    to { visibility: hidden; }\n  }\n\n  @media screen and (max-width: 480px) {\n    .urgency-banner {\n      font-size: 12px;\n      padding: 5px 10px;\n    }\n  }\n</style>\n\n<div class=\"urgency-banner\">\n  <div class=\"blink\">&#9679;</div>\n  <div id=\"stock-message\">Only a few left in stock.</div>\n</div>\n\n<script>\n  // Fonction pour générer un nombre aléatoire entre 2 et 9\n  function getRandomStockNumber() {\n    return Math.floor(Math.random() * (9 - 2 + 1)) + 2;  // Génère un nombre entre 2 et 9\n  }\n\n  // Met à jour le message avec un nombre aléatoire et affiche \"Only X pairs left in stock\"\n  document.getElementById('stock-message').innerText = \"Il en reste \" + getRandomStockNumber() + \" après, il faudra patienter.\";\n</script>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_baLBJF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROPRANCE_4.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "countdown_timer_essential_app_block_hfqWPJ": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmbfc6tos002hyxbxbn2vpucq"
+          }
+        },
+        "liquid_d73nM8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"footer__payment-icons h-stack wrap gap-2\" style=\"\n\"><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"pi-american_express\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\"><title id=\"pi-american_express\">American Express</title><path fill=\"#000\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z\" opacity=\".07\"></path><path fill=\"#006FCF\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z\"></path><path fill=\"#FFF\" d=\"M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z\"></path><path fill=\"#006FCF\" d=\"M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z\"></path><path fill=\"#006FCF\" d=\"m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z\"></path><path fill=\"#FFF\" d=\"M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z\"></path><path fill=\"#006FCF\" d=\"m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z\"></path><path fill=\"#006FCF\" d=\"M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z\"></path></svg>\n<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n<svg width=\"38\" height=\"24\" role=\"img\" viewBox=\"0 0 38 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-labelledby=\"pi-cartes_bancaires\"><title id=\"pi-cartes_bancaires\">Cartes Bancaires</title><rect x=\"1\" y=\"1\" width=\"36\" height=\"22\" rx=\"2\" fill=\"url(#pi-cartes_bancaires-paint0_linear)\"></rect><rect x=\".5\" y=\".5\" width=\"37\" height=\"23\" rx=\"2.5\" stroke=\"#000\" stroke-opacity=\".07\"></rect><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M28 9.934c0 1.067-.8 1.932-1.79 1.934v.002h-6.52V8h6.52c.99.002 1.79.867 1.79 1.934zm0 4.104c0 1.067-.8 1.932-1.79 1.934v.003h-6.52v-3.87h6.52c.99.002 1.79.867 1.79 1.933zm-13.224-1.934h4.788v.378c0 1.943-1.46 3.518-3.26 3.518H13.26C11.46 16 10 14.425 10 12.482v-.938c0-1.943 1.46-3.518 3.26-3.518h3.044c1.8 0 3.26 1.575 3.26 3.518v.326h-4.788v.234z\" fill=\"#fff\"></path><defs><linearGradient id=\"pi-cartes_bancaires-paint0_linear\" x1=\"37\" y1=\"1\" x2=\"17.422\" y2=\"33.036\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#083969\"></stop><stop offset=\".492\" stop-color=\"#007B9D\"></stop><stop offset=\"1\" stop-color=\"#00A84A\"></stop></linearGradient></defs></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-paypal\"><title id=\"pi-paypal\">PayPal</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path><path fill=\"#3086C8\" d=\"M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z\"></path><path fill=\"#012169\" d=\"M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-shopify_pay\"><title id=\"pi-shopify_pay\">Shop Pay</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\"></path><path d=\"M35.889 0C37.05 0 38 .982 38 2.182v19.636c0 1.2-.95 2.182-2.111 2.182H2.11C.95 24 0 23.018 0 21.818V2.182C0 .982.95 0 2.111 0H35.89z\" fill=\"#5A31F4\"></path><path d=\"M9.35 11.368c-1.017-.223-1.47-.31-1.47-.705 0-.372.306-.558.92-.558.54 0 .934.238 1.225.704a.079.079 0 00.104.03l1.146-.584a.082.082 0 00.032-.114c-.475-.831-1.353-1.286-2.51-1.286-1.52 0-2.464.755-2.464 1.956 0 1.275 1.15 1.597 2.17 1.82 1.02.222 1.474.31 1.474.705 0 .396-.332.582-.993.582-.612 0-1.065-.282-1.34-.83a.08.08 0 00-.107-.035l-1.143.57a.083.083 0 00-.036.111c.454.92 1.384 1.437 2.627 1.437 1.583 0 2.539-.742 2.539-1.98s-1.155-1.598-2.173-1.82v-.003zM15.49 8.855c-.65 0-1.224.232-1.636.646a.04.04 0 01-.069-.03v-2.64a.08.08 0 00-.08-.081H12.27a.08.08 0 00-.08.082v8.194a.08.08 0 00.08.082h1.433a.08.08 0 00.081-.082v-3.594c0-.695.528-1.227 1.239-1.227.71 0 1.226.521 1.226 1.227v3.594a.08.08 0 00.081.082h1.433a.08.08 0 00.081-.082v-3.594c0-1.51-.981-2.577-2.355-2.577zM20.753 8.62c-.778 0-1.507.24-2.03.588a.082.082 0 00-.027.109l.632 1.088a.08.08 0 00.11.03 2.5 2.5 0 011.318-.366c1.25 0 2.17.891 2.17 2.068 0 1.003-.736 1.745-1.669 1.745-.76 0-1.288-.446-1.288-1.077 0-.361.152-.657.548-.866a.08.08 0 00.032-.113l-.596-1.018a.08.08 0 00-.098-.035c-.799.299-1.359 1.018-1.359 1.984 0 1.46 1.152 2.55 2.76 2.55 1.877 0 3.227-1.313 3.227-3.195 0-2.018-1.57-3.492-3.73-3.492zM28.675 8.843c-.724 0-1.373.27-1.845.746-.026.027-.069.007-.069-.029v-.572a.08.08 0 00-.08-.082h-1.397a.08.08 0 00-.08.082v8.182a.08.08 0 00.08.081h1.433a.08.08 0 00.081-.081v-2.683c0-.036.043-.054.069-.03a2.6 2.6 0 001.808.7c1.682 0 2.993-1.373 2.993-3.157s-1.313-3.157-2.993-3.157zm-.271 4.929c-.956 0-1.681-.768-1.681-1.783s.723-1.783 1.681-1.783c.958 0 1.68.755 1.68 1.783 0 1.027-.713 1.783-1.681 1.783h.001z\" fill=\"#fff\"></path></svg>\n<svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg></div>"
+          }
+        },
+        "liquid_Qrw9XP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align:center; margin-top: 20px; font-size: 14px; font-family: 'DIN Next', Arial, sans-serif; color: #555; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;\">\n  <!-- Badge Free Shipping -->\n  <div style=\"display: flex; align-items: center; gap: 8px; flex-shrink: 0;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0925/7769/4028/files/livraison-gratuite.png?v=1744538012\" alt=\"Livraison offerte\" style=\"width: 20px; height: 20px;\" />\n    <span style=\"font-weight: bold; font-size: 14px;\">Livraison offerte</span>\n  </div>\n  \n  <!-- Badge 30-Day Money-Back -->\n  <div style=\"display: flex; align-items: center; gap: 8px; flex-shrink: 0;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0925/7769/4028/files/remboursement.png?v=1744538012\" alt=\"30-Day Money-Back\" style=\"width: 20px; height: 20px;\" />\n    <span style=\"font-weight: bold; font-size: 14px;\">Garantie 90 jours</span>\n  </div>\n</div>"
+          }
+        },
+        "liquid_AJG43M": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  margin-top: 16px;\n  padding: 12px;\n  border: 1px solid #eee;\n  border-radius: 12px;\n  background-color: #f9f9f9;\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n  max-width: 100%;\n  box-sizing: border-box;\n  flex-wrap: wrap;\n\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0943/4962/3631/files/Design_sans_titre_2.png?v=1748984691\" \n    alt=\"review\" \n    width=\"48\" \n    height=\"48\" \n    style=\"\n      width: 48px; \n      height: 48px; \n      border-radius: 50%; \n      object-fit: cover; \n      flex-shrink: 0;\n    \">\n\n  <div style=\"flex: 1; min-width: 0;\">\n    <!-- Étoiles + texte sur 1 ligne -->\n    <div style=\"display: flex; align-items: center; gap: 4px; margin-bottom: 6px; flex-wrap: nowrap; font-size: 13px; color: #1A1A1A;\">\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <span style=\"margin-left: 6px;\">4.8/5 <strong>basé sur 1 184 avis</strong></span>\n    </div>\n\n    <div style=\"\n      font-size: 15px; \n      font-weight: 500; \n      color: #1A1A1A; \n      line-height: 1.4;\n    \">\n      “Moins de fringales, une énergie stable… et enfin la sensation que mon corps est aligné avec moi.”\n    </div>\n    <div style=\"\n      font-size: 13px; \n      color: #1A1A1A; \n      margin-top: 6px;\n    \">\n      – Julia F. 24 ans\n    </div>\n  </div>\n</div>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_yHEqAd",
+        "title",
+        "liquid_aLnVCi",
+        "buy_buttons",
+        "image_baLBJF",
+        "countdown_timer_essential_app_block_hfqWPJ",
+        "liquid_d73nM8",
+        "liquid_Qrw9XP",
+        "liquid_AJG43M"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_dU46W7": {
+      "type": "tabs",
+      "blocks": {
+        "tab_UjBmrg": {
+          "type": "tab",
+          "settings": {
+            "title": "Appuyé par la science",
+            "content": "<p><strong>🌿 Nomad Zen Fit: Énergie propre, esprit clair, digestion légère.</strong></p><p>Une boisson fonctionnelle qui remplace le café, apaise l’esprit, et allège la digestion.<br/>Formulée avec des actifs naturels validés par la science, pour nourrir votre corps <strong>sans pic de stress ni crash d’énergie</strong>.<br/><br/>✅ <strong>Yerba Maté</strong> : une énergie progressive, sans nervosité ni coup de barre — avec des antioxydants pour soutenir l’immunité.</p><p>✅ <strong>Lion’s Mane</strong> : reconnu pour stimuler la mémoire, la concentration et protéger le cerveau.</p><p>✅ <strong>L-Théanine</strong> : pour un focus calme, sans agitation, même en période de stress.</p><p>✅ <strong>Pro + Prébiotiques</strong> : <br/>équilibre la flore intestinale, réduit les ballonnements et améliore la digestion dès les premières prises.</p><p><strong>→ Mieux qu’un café, plus qu’un thé.</strong> Une routine bien-être qui vous aligne.</p>",
+            "page": ""
+          }
+        },
+        "tab_FMtPmC": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition",
+            "content": "<p>🧪 <strong>Ce que contient chaque sachet de </strong><em><strong>Nomad Zen Fit</strong></em></p><ul><li><strong>Portion</strong> : 1 sachet (env. 5 g)</li><li><strong>Portions par boîte</strong> : 30</li><li><strong>Calories</strong> : 40 | <strong>Sucres</strong> : &lt; 2 g</li><li><strong>Caféine naturelle</strong> : 100 mg (Yerba Maté)</li></ul><p><br/>🌿 <strong>Ingrédients actifs & bienfaits</strong></p><p><strong>Mélange de fibres (Prébiotiques + Probiotiques) – 2000 mg</strong></p><ul><li>Inuline de chicorée</li><li>Fibre de pomme</li><li>Pectine d'agrumes</li><li>Fibre de pois</li><li>Champignon Lion's Mane (1000mg)</li><li>Yerba Maté (500 mg)</li><li>L-Théanine (100 mg)</li></ul><p>🌱 <strong>Autres ingrédients naturels:</strong></p><p>Allulose, sucre de canne bio, arômes naturels, acide citrique, silice, extrait de stévia, stévia rebaudioside A bio</p>",
+            "page": ""
+          }
+        },
+        "tab_7AUiB4": {
+          "type": "tab",
+          "settings": {
+            "title": "Qu'est-ce que le GLP-1?",
+            "content": "<p>Le GLP-1 est une hormone libérée après un repas.<br/>Elle aide à <strong>réduire la faim</strong>, <strong>ralentir la digestion</strong> et <strong>réguler le sucre dans le sang</strong>.<br/>Certaines plantes ou solutions naturelles peuvent la stimuler, ce qui favorise la <strong>perte de poids</strong> et un <strong>meilleur contrôle de l’appétit</strong>.</p><p>Concrètement, le GLP-1 aide à :</p><ul><li><strong>Réduire la sensation de faim</strong></li><li><strong>Ralentir la vidange de l'estomac </strong>(ce qui ralentit la sensation de satiété)</li><li><strong>Stimuler la production d'insuline </strong></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_aaA7EX": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 90 jours gratuitement",
+            "content": "<p><strong>Essayez sans risque pendant 90 jours.</strong><br/>Si vous n’êtes pas entièrement satisfait, vous pouvez nous les retourner et recevoir un <strong>remboursement complet</strong>.</p>",
+            "page": ""
+          }
+        },
+        "tab_YTeih3": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse/ <strong>contact@movenomad.com</strong></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_UjBmrg",
+        "tab_FMtPmC",
+        "tab_7AUiB4",
+        "tab_aaA7EX",
+        "tab_YTeih3"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "left",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "multi_column_xb3eGw": {
+      "type": "multi-column",
+      "blocks": {
+        "item_b8VG3m": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_7479964472040328491.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_i3X7Yn": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_7487096820921863455.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PeDVPC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video_7496386336312528158.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_b8VG3m",
+        "item_i3X7Yn",
+        "item_PeDVPC"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Essayé pour le goût... Gardé pour le ventre plat",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_gMcMAj": {
+      "type": "timeline",
+      "blocks": {
+        "slide_tdz4wT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/nature-zen-fit-377696.png",
+            "navigation_label": "Semaine 1",
+            "subheading": "",
+            "title": "Sentez ce petit coup de mieux",
+            "content": "<p>Nos utilisatrices parlent d’un regain d’énergie, d’une sensation de légèreté, et d’une nette réduction des ballonnements et fringales dès la première semaine.</p>"
+          }
+        },
+        "slide_H8Leyi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/nature-zen-fit-649727.png",
+            "navigation_label": "Semaine 2",
+            "subheading": "",
+            "title": "Moins de ballonnements & Moins d’envies",
+            "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
+          }
+        },
+        "slide_NJ7MJc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_NOMAAMAADTHE.png",
+            "navigation_label": "Semaine 3",
+            "subheading": "",
+            "title": "Clarté mentale & Vitalité constante",
+            "content": "<p><strong>Travaille avec clarté, avance avec calme.</strong><br/>Grâce au duo naturel <strong>Lion’s Mane + L-Théanine</strong>, tu penses plus vite, tu restes ancré, et tu gardes ton énergie sans les hauts et les bas.</p>"
+          }
+        },
+        "slide_TyCi63": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/nature-zen-fit-577370.png",
+            "navigation_label": "Semaine 4",
+            "subheading": "",
+            "title": "Taille Affinée & Pantalon plus confortable",
+            "content": "<p>Quand tes hormones s’équilibrent et que ton ventre se relâche, les gonflements disparaissent peu à peu… et cette fameuse bouée finit enfin par fondre.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tdz4wT",
+        "slide_H8Leyi",
+        "slide_NJ7MJc",
+        "slide_TyCi63"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "#faf3be",
+        "background_gradient": "linear-gradient(102deg, rgba(238, 198, 245, 1), rgba(249, 208, 163, 1) 100%)",
+        "text_color": ""
+      }
+    },
+    "rich_text_CwF7CL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7BYhbr": {
+          "type": "heading",
+          "settings": {
+            "text": "La différence se voit - Et se ressent.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7BYhbr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_EXngdp": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AjpBBJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/productpageTHE.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<ul><li><strong>85 %</strong> ont retrouvé une <strong>énergie stable</strong> tout au long de la journée.</li><li><strong>95 %</strong> disent avoir gagné en <strong>focus et clarté mentale</strong>.</li><li>💨 <strong>92 %</strong> ont senti leur <strong>digestion s’alléger</strong>.</li><li>🧘‍♀️ <strong>93 %</strong> se sentent <strong>moins stressés, plus apaisés</strong>.</li></ul>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AjpBBJ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "rich_text_YC3iy4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_an3hPn": {
+          "type": "heading",
+          "settings": {
+            "text": "Ce que LUNEA fait (et que les autres ne font pas).",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_an3hPn"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1748775929315d5379": {
+      "type": "apps",
+      "blocks": {
+        "tabify_product_comparison_table_6LwW99": {
+          "type": "shopify://apps/tabify/blocks/product-comparison-table/5e5cddf4-c995-443d-8e6b-f2bf41223d1b",
+          "settings": {
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "title": "",
+            "title_tag": "h3",
+            "title_alignment": "center",
+            "image_size": "md",
+            "image_size_mobile": "md",
+            "image_fit": "contain",
+            "column_title_alignment": "center",
+            "row_title_alignment": "left",
+            "cell_alignment": "center",
+            "primary_color": "#eec6f5",
+            "secondary_color": "#ffb74a",
+            "neutral_color": "#1e293b",
+            "background_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "tabify_product_comparison_table_6LwW99"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_4nxBA4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WxhqkA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_6fba0dd5-4f37-44de-80b5-fe72c73f4f8c.jpg",
+            "column_size": "3",
+            "title": "Caféine de Yerba mate",
+            "heading_tag": "h4",
+            "content": "<p>Riche en antioxydants pour renforcer le système immunitaire et combattre le stress oxydatif.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GfyXhE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_1a73c2c4-51ea-44bf-b9ab-47b5528d6478.jpg",
+            "column_size": "3",
+            "title": "Champignon Lion’s Mane",
+            "heading_tag": "h4",
+            "content": "<p>Puissant nootropique, améliore LA mémoire, LA concentration et protège le cerveau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YFAN9E": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_590e1124-5727-491f-a6ee-e882c8b24793.jpg",
+            "column_size": "3",
+            "title": "L-Théanine",
+            "heading_tag": "h4",
+            "content": "<p>Agit avec la caféine pour calmer l’esprit, réduire le stress et améliorer le sommeil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JzKT3M": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_e1abf540-948d-456a-a6ec-52d8871e3861.jpg",
+            "column_size": "3",
+            "title": "Pro + prébiotiques",
+            "heading_tag": "h4",
+            "content": "<p>Mélange de fibres qui nourrit les bonnes bactéries, facilite la digestion et réduit les ballonnement.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WxhqkA",
+        "item_GfyXhE",
+        "item_YFAN9E",
+        "item_JzKT3M"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des ingrédients qui font la différence",
+        "content": "",
+        "background": "#eec6f5",
+        "background_gradient": "linear-gradient(270deg, rgba(247, 181, 214, 1), rgba(250, 243, 190, 1) 100%)",
+        "text_color": ""
+      }
+    },
+    "faq_h43fHJ": {
+      "type": "faq",
+      "blocks": {
+        "item_7kkdGV": {
+          "type": "item",
+          "settings": {
+            "title": "Quel goût a le yerba mate?",
+            "content": "<p>Le yerba mate offre une saveur douce et rafraîchissante avec de subtiles notes de yerba mate et d’extraits naturels de fruits. Légèrement terreuse, elle reste légère et facile à boire, parfaite pour les novices comme les amateurs de thé.</p>"
+          }
+        },
+        "item_R89enx": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle quantité de caféine contient-il?",
+            "content": "<p>Chaque portion contient 100 mg de caféine naturelle issue du Yerba Mate, offrant un regain d’énergie constant sans nervosité ni coup de fatigue comme avec le café.</p>"
+          }
+        },
+        "item_n88RP8": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je en boire tous les jours?",
+            "content": "<p>Oui ! Le Yerba Mate est conçu pour une consommation quotidienne et peut se boire le matin pour un coup de boost, l’après-midi pour retrouver de l’énergie, ou avant l’entraînement.</p>"
+          }
+        },
+        "item_FiiRg8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça facilite la digestion?",
+            "content": "<p>Oui ! Nomad Zen Fit Yerba Mate contient un mélange de probiotiques et prébiotiques qui soutient la santé intestinale, améliore la digestion et réduit les ballonnements, ce qui le distingue des boissons énergétiques classiques.</p>"
+          }
+        },
+        "item_4ADiji": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps avant de ressentir les effets?",
+            "content": "<p>La plupart des utilisateurs ressentent un regain d’énergie entre 15 et 30 minutes après avoir bu le Yerba Mate, avec des effets qui durent plusieurs heures sans chute d’énergie.</p>"
+          }
+        },
+        "item_wKd3Qb": {
+          "type": "item",
+          "settings": {
+            "title": "Comment préparer le Yerba Mate?",
+            "content": "<p>C’est super simple ! Ajoutez une dose dans de l’eau froide avec des glaçons, mélangez avec un mousseur ou un fouet, puis savourez. Pas besoin d’infuser !</p>"
+          }
+        },
+        "item_LdWVT4": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je n’aime pas?",
+            "content": "<p>Nous croyons en notre produit avec un essai sans risque de 30 jours. Si le Yerba Mate ne vous convient pas, contactez-nous simplement pour un remboursement facile, sans aucune question.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7kkdGV",
+        "item_R89enx",
+        "item_n88RP8",
+        "item_FiiRg8",
+        "item_4ADiji",
+        "item_wKd3Qb",
+        "item_LdWVT4"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "174877904856d17e9c": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_PLa4jk": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_PLa4jk"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_NwLjbF",
+    "logo_list_99txJr",
+    "rich_text_rFcYn6",
+    "image_with_text_overlay_ztJkrY",
+    "rich_text_YNUHfm",
+    "video_3fFNEn",
+    "multi_column_7PranV",
+    "main",
+    "tabs_dU46W7",
+    "multi_column_xb3eGw",
+    "timeline_gMcMAj",
+    "rich_text_CwF7CL",
+    "media_with_text_EXngdp",
+    "rich_text_YC3iy4",
+    "1748775929315d5379",
+    "multi_column_4nxBA4",
+    "faq_h43fHJ",
+    "174877904856d17e9c"
+  ]
+}
