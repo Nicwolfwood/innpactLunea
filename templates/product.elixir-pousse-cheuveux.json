@@ -17,8 +17,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/THEBANNIERE.png",
-        "mobile_image": "shopify://shop_images/THEBANNIERE_1300_x_1500_px_2.png",
+        "image": "shopify://shop_images/ZZZITBANIERE.png",
+        "mobile_image": "shopify://shop_images/ZZZITT_BANIERE_TEL_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -91,7 +91,7 @@
         "heading_NHAzBe": {
           "type": "heading",
           "settings": {
-            "text": "Pas juste un thé, une nouvelle façon d’avancer.",
+            "text": "Une huile. Une routine. Une vraie différence.",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
