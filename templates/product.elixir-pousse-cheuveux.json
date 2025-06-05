@@ -607,82 +607,6 @@
         "text_color": ""
       }
     },
-    "multi_column_4nxBA4": {
-      "type": "multi-column",
-      "blocks": {
-        "item_WxhqkA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_6fba0dd5-4f37-44de-80b5-fe72c73f4f8c.jpg",
-            "column_size": "3",
-            "title": "Caféine de Yerba mate",
-            "heading_tag": "h4",
-            "content": "<p>Riche en antioxydants pour renforcer le système immunitaire et combattre le stress oxydatif.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_GfyXhE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_1a73c2c4-51ea-44bf-b9ab-47b5528d6478.jpg",
-            "column_size": "3",
-            "title": "Champignon Lion’s Mane",
-            "heading_tag": "h4",
-            "content": "<p>Puissant nootropique, améliore LA mémoire, LA concentration et protège le cerveau.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YFAN9E": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_590e1124-5727-491f-a6ee-e882c8b24793.jpg",
-            "column_size": "3",
-            "title": "L-Théanine",
-            "heading_tag": "h4",
-            "content": "<p>Agit avec la caféine pour calmer l’esprit, réduire le stress et améliorer le sommeil.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JzKT3M": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_e1abf540-948d-456a-a6ec-52d8871e3861.jpg",
-            "column_size": "3",
-            "title": "Pro + prébiotiques",
-            "heading_tag": "h4",
-            "content": "<p>Mélange de fibres qui nourrit les bonnes bactéries, facilite la digestion et réduit les ballonnement.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_WxhqkA",
-        "item_GfyXhE",
-        "item_YFAN9E",
-        "item_JzKT3M"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Des ingrédients qui font la différence",
-        "content": "",
-        "background": "#eec6f5",
-        "background_gradient": "linear-gradient(270deg, rgba(247, 181, 214, 1), rgba(250, 243, 190, 1) 100%)",
-        "text_color": ""
-      }
-    },
     "faq_h43fHJ": {
       "type": "faq",
       "blocks": {
@@ -803,7 +727,6 @@
     "timeline_gMcMAj",
     "rich_text_YC3iy4",
     "1748775929315d5379",
-    "multi_column_4nxBA4",
     "faq_h43fHJ",
     "174877904856d17e9c"
   ]
