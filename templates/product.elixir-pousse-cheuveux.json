@@ -132,6 +132,7 @@
       "blocks": {
         "heading_wdJjtr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Cheveux plus forts, pousse activée naturellement",
             "heading_tag": "h3",
@@ -155,6 +156,7 @@
     },
     "video_3fFNEn": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -174,11 +176,11 @@
         "item_pc7jt3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS1_2.png",
+            "image": "shopify://shop_images/ZITAVIS1.png",
             "column_size": "3",
-            "title": "Claire I.",
+            "title": "Sophie R.",
             "heading_tag": "h4",
-            "content": "<p>\"Je prends Nomad depuis quelques semaines, j’ai clairement <strong>moins d’envies</strong>, mon appétit est bien <strong>plus stable</strong>, et <strong>aucun effet secondaire</strong>.\"</p>",
+            "content": "<p>\"En 3 semaines, mes racines sont plus <strong>fortes</strong> et mes cheveux <strong>cassent moins</strong>. J’ai enfin l’impression qu’ils<strong> tiennent bon</strong> !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -187,11 +189,11 @@
         "item_pYVjiD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVIS2_1.png",
+            "image": "shopify://shop_images/ZITAVIS2.png",
             "column_size": "3",
-            "title": "Marina S.",
+            "title": "Laura S.",
             "heading_tag": "h4",
-            "content": "<p>\"<strong>Maman de deux enfants</strong>, j’ai enfin <strong>repris le contrôle sur mes envies</strong>. Moins de ballonnements, <strong>plus de légèreté</strong>… et surtout, ce<strong> petit moment à moi</strong> chaque jour.\"</p>",
+            "content": "<p>\"J’ai retrouvé de la <strong>densité</strong> autour de mes tempes, là où mes cheveux étaient clairsemés. Incroyable.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
