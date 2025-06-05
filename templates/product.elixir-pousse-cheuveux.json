@@ -545,75 +545,13 @@
         "text_color": ""
       }
     },
-    "rich_text_CwF7CL": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7BYhbr": {
-          "type": "heading",
-          "settings": {
-            "text": "La différence se voit - Et se ressent.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_7BYhbr"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_EXngdp": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_AjpBBJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/productpageTHE.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "<ul><li><strong>85 %</strong> ont retrouvé une <strong>énergie stable</strong> tout au long de la journée.</li><li><strong>95 %</strong> disent avoir gagné en <strong>focus et clarté mentale</strong>.</li><li>💨 <strong>92 %</strong> ont senti leur <strong>digestion s’alléger</strong>.</li><li>🧘‍♀️ <strong>93 %</strong> se sentent <strong>moins stressés, plus apaisés</strong>.</li></ul>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#faf8f5",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_AjpBBJ"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
     "rich_text_YC3iy4": {
       "type": "rich-text",
       "blocks": {
         "heading_an3hPn": {
           "type": "heading",
           "settings": {
-            "text": "Ce que LUNEA fait (et que les autres ne font pas).",
+            "text": "Pourquoi NOMAD fait toute la différence.",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -863,8 +801,6 @@
     "tabs_dU46W7",
     "multi_column_xb3eGw",
     "timeline_gMcMAj",
-    "rich_text_CwF7CL",
-    "media_with_text_EXngdp",
     "rich_text_YC3iy4",
     "1748775929315d5379",
     "multi_column_4nxBA4",
