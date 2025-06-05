@@ -547,61 +547,11 @@
     },
     "rich_text_YC3iy4": {
       "type": "rich-text",
-      "blocks": {
-        "heading_an3hPn": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi NOMAD fait toute la différence.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_an3hPn"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1748775929315d5379": {
-      "type": "apps",
-      "blocks": {
-        "tabify_product_comparison_table_6LwW99": {
-          "type": "shopify://apps/tabify/blocks/product-comparison-table/5e5cddf4-c995-443d-8e6b-f2bf41223d1b",
-          "settings": {
-            "spacing_top": 0,
-            "spacing_bottom": 0,
-            "title": "",
-            "title_tag": "h3",
-            "title_alignment": "center",
-            "image_size": "md",
-            "image_size_mobile": "md",
-            "image_fit": "contain",
-            "column_title_alignment": "center",
-            "row_title_alignment": "left",
-            "cell_alignment": "center",
-            "primary_color": "#eec6f5",
-            "secondary_color": "#ffb74a",
-            "neutral_color": "#1e293b",
-            "background_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "tabify_product_comparison_table_6LwW99"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -726,7 +676,6 @@
     "multi_column_xb3eGw",
     "timeline_gMcMAj",
     "rich_text_YC3iy4",
-    "1748775929315d5379",
     "faq_h43fHJ",
     "174877904856d17e9c"
   ]
