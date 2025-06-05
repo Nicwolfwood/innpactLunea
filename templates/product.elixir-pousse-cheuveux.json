@@ -374,8 +374,8 @@
         "tab_UjBmrg": {
           "type": "tab",
           "settings": {
-            "title": "Appuyé par la science",
-            "content": "<p><strong>🌿 Nomad Zen Fit: Énergie propre, esprit clair, digestion légère.</strong></p><p>Une boisson fonctionnelle qui remplace le café, apaise l’esprit, et allège la digestion.<br/>Formulée avec des actifs naturels validés par la science, pour nourrir votre corps <strong>sans pic de stress ni crash d’énergie</strong>.<br/><br/>✅ <strong>Yerba Maté</strong> : une énergie progressive, sans nervosité ni coup de barre — avec des antioxydants pour soutenir l’immunité.</p><p>✅ <strong>Lion’s Mane</strong> : reconnu pour stimuler la mémoire, la concentration et protéger le cerveau.</p><p>✅ <strong>L-Théanine</strong> : pour un focus calme, sans agitation, même en période de stress.</p><p>✅ <strong>Pro + Prébiotiques</strong> : <br/>équilibre la flore intestinale, réduit les ballonnements et améliore la digestion dès les premières prises.</p><p><strong>→ Mieux qu’un café, plus qu’un thé.</strong> Une routine bien-être qui vous aligne.</p>",
+            "title": "Utilisation",
+            "content": "<p><strong> Comment utiliser ton élixir capillaire NOMAD :</strong></p><p><strong>1. Applique quelques gouttes</strong><br/><br/>Directement sur ton cuir chevelu, surtout là où tu vois de la chute ou des zones clairsemées. Pas besoin de te laver les cheveux avant.</p><p><strong>2. Masse doucement</strong><br/><br/>Avec tes doigts ou un masseur de cuir chevelu. Laisse poser au moins 30 min – ou garde-la toute la nuit si tu l’appliques le soir. Tu peux aussi la laisser sans rinçage et coiffer tes cheveux normalement.</p><p><strong>3. Utilise chaque jour</strong><br/><br/>Une fois par jour (ou matin et soir pour aller plus vite). Les premiers résultats peuvent apparaître dès <strong>8 semaines</strong> d’utilisation régulière.</p><p>✅ <strong>Compatible avec toutes les routines capillaires</strong><br/><br/>Tu n’as rien à changer à tes habitudes. NOMAD s’adapte à toi.</p>",
             "page": ""
           }
         },
@@ -383,15 +383,7 @@
           "type": "tab",
           "settings": {
             "title": "Composition",
-            "content": "<p>🧪 <strong>Ce que contient chaque sachet de </strong><em><strong>Nomad Zen Fit</strong></em></p><ul><li><strong>Portion</strong> : 1 sachet (env. 5 g)</li><li><strong>Portions par boîte</strong> : 30</li><li><strong>Calories</strong> : 40 | <strong>Sucres</strong> : &lt; 2 g</li><li><strong>Caféine naturelle</strong> : 100 mg (Yerba Maté)</li></ul><p><br/>🌿 <strong>Ingrédients actifs & bienfaits</strong></p><p><strong>Mélange de fibres (Prébiotiques + Probiotiques) – 2000 mg</strong></p><ul><li>Inuline de chicorée</li><li>Fibre de pomme</li><li>Pectine d'agrumes</li><li>Fibre de pois</li><li>Champignon Lion's Mane (1000mg)</li><li>Yerba Maté (500 mg)</li><li>L-Théanine (100 mg)</li></ul><p>🌱 <strong>Autres ingrédients naturels:</strong></p><p>Allulose, sucre de canne bio, arômes naturels, acide citrique, silice, extrait de stévia, stévia rebaudioside A bio</p>",
-            "page": ""
-          }
-        },
-        "tab_7AUiB4": {
-          "type": "tab",
-          "settings": {
-            "title": "Qu'est-ce que le GLP-1?",
-            "content": "<p>Le GLP-1 est une hormone libérée après un repas.<br/>Elle aide à <strong>réduire la faim</strong>, <strong>ralentir la digestion</strong> et <strong>réguler le sucre dans le sang</strong>.<br/>Certaines plantes ou solutions naturelles peuvent la stimuler, ce qui favorise la <strong>perte de poids</strong> et un <strong>meilleur contrôle de l’appétit</strong>.</p><p>Concrètement, le GLP-1 aide à :</p><ul><li><strong>Réduire la sensation de faim</strong></li><li><strong>Ralentir la vidange de l'estomac </strong>(ce qui ralentit la sensation de satiété)</li><li><strong>Stimuler la production d'insuline </strong></li></ul>",
+            "content": "<p><strong>Ingrédients 100 % naturels & efficaces :</strong></p><ul><li><strong>Huile de romarin</strong> : stimule la circulation et booste la pousse</li><li><strong>Huile d’avocat</strong> : nourrit en profondeur et répare les cheveux secs</li><li><strong>Huile de coco</strong> : renforce la fibre capillaire et prévient la casse </li><li><strong>Huile d’olive</strong> : adoucit et apporte brillance </li><li><strong>Huile de lavande</strong> : apaise le cuir chevelu et réduit les irritations</li><li> <strong>Huile d’amande douce</strong> : hydrate et assouplit </li><li><strong>Huile de ricin</strong>: épaissit les cheveux et freine la chute<br/><br/>💚 <strong>Une synergie végétale pour une chevelure plus forte, plus dense, plus vivante.</strong></li></ul>",
             "page": ""
           }
         },
@@ -415,7 +407,6 @@
       "block_order": [
         "tab_UjBmrg",
         "tab_FMtPmC",
-        "tab_7AUiB4",
         "tab_aaA7EX",
         "tab_YTeih3"
       ],
@@ -489,7 +480,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Essayé pour le goût... Gardé pour le ventre plat",
+        "title": "Essayée pour la chute… gardée pour les repousses.",
         "content": "",
         "background": "",
         "background_gradient": "",
