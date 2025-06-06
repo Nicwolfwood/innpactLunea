@@ -29,6 +29,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/ZZZITBANIERE.png",
+        "mobile_image": "shopify://shop_images/ZZZITT_BANIERE_TEL_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
