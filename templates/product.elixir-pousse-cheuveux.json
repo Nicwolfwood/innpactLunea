@@ -429,6 +429,7 @@
         "image_UCJ7p7": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ZOUGLOUDANGZIIT.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -439,9 +440,9 @@
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#faf8f5",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
