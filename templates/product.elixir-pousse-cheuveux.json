@@ -575,7 +575,7 @@
       "settings": {
         "full_width": true,
         "background": "#faf3be",
-        "background_gradient": "linear-gradient(102deg, rgba(254, 213, 142, 1), rgba(249, 224, 167, 1) 27.774%, rgba(249, 208, 163, 1) 76%)",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 233, 185, 1), rgba(255, 241, 209, 1) 100%)",
         "text_color": ""
       }
     },
