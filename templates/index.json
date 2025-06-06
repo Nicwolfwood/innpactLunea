@@ -107,68 +107,46 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 6,
-        "background": "#69467b",
+        "background": "#fed58e",
         "background_gradient": "",
-        "text_color": "#faf8f5",
+        "text_color": "#1a1a1a",
         "text_gradient": ""
       }
     },
-    "timeline_Ebf9tU": {
-      "type": "timeline",
+    "media_with_text_hNVwYW": {
+      "type": "media-with-text",
       "blocks": {
-        "slide_xP3nUC": {
-          "type": "slide",
+        "image_hi4Rjj": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/nature-zen-fit-649727.png",
-            "navigation_label": "Semaine 1",
+            "image": "shopify://shop_images/ZOUGLOUDANGZIIT.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
             "subheading": "",
-            "title": "Sentez ce petit coup de mieux",
-            "content": "<p>Nos utilisatrices parlent d’un regain d’énergie, d’une sensation de légèreté, et d’une nette réduction des ballonnements et fringales dès la première semaine.</p>"
-          }
-        },
-        "slide_nwDiEa": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Copie_de_NOMAAMAADTHE_ef5a49a2-8424-4732-9396-15320c7c0f07.png",
-            "navigation_label": "Semaine 2",
-            "subheading": "",
-            "title": "Moins de ballonnements & Moins d’envies",
-            "content": "<p>Grâce aux adaptogènes et au soutien digestif, la digestion se rééquilibre, les envies de sucre s’apaisent, et on se reconnecte enfin aux vrais besoins de son corps.</p>"
-          }
-        },
-        "slide_dkykJg": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/nature-zen-fit-377696.png",
-            "navigation_label": "Semaine 3",
-            "subheading": "",
-            "title": "Clarté mentale & Vitalité constante",
-            "content": "<p><strong>Travaille avec clarté, avance avec calme.</strong><br/>Grâce au duo naturel <strong>Lion’s Mane + L-Théanine</strong>, tu penses plus vite, tu restes ancré, et tu gardes ton énergie sans les hauts et les bas.</p>"
-          }
-        },
-        "slide_HiYHQy": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/nature-zen-fit-577370.png",
-            "navigation_label": "Semaine 4",
-            "subheading": "",
-            "title": "Taille Affinée & Pantalon plus confortable",
-            "content": "<p>Quand tes hormones s’équilibrent et que ton ventre se relâche, les gonflements disparaissent peu à peu… et cette fameuse bouée finit enfin par fondre.</p>"
+            "title": "Ce que disent les dermatologues",
+            "content": "<p>\"L’Élixir Nomad est une formule naturelle que nous recommandons  aux patients souffrant de chute de cheveux ou de perte de densité.<br/><br/>Sa tolérance est excellente, même sur les cuirs chevelus sensibles, et les résultats sont visibles après quelques semaines d’usage régulier.\"</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#faf8f5",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "slide_xP3nUC",
-        "slide_nwDiEa",
-        "slide_dkykJg",
-        "slide_HiYHQy"
+        "image_hi4Rjj"
       ],
-      "name": "Timeline",
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "background": "#faf3be",
-        "background_gradient": "linear-gradient(318deg, rgba(250, 243, 190, 1), rgba(238, 198, 245, 1) 100%)",
-        "text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "faq_xtiDpM": {
@@ -244,7 +222,7 @@
     "image_with_text_overlay_aMReqK",
     "testimonials_mTWwYr",
     "scrolling-text",
-    "timeline_Ebf9tU",
+    "media_with_text_hNVwYW",
     "faq_xtiDpM"
   ]
 }
