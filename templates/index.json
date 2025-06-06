@@ -177,36 +177,36 @@
         "item_pyDdkn": {
           "type": "item",
           "settings": {
-            "title": "Quel goût a le yerba mate?",
-            "content": "<p>Le yerba mate offre une saveur douce et rafraîchissante avec de subtiles notes de yerba mate et d’extraits naturels de fruits. Légèrement terreuse, elle reste légère et facile à boire, parfaite pour les novices comme les amateurs de thé.</p>"
+            "title": "Quels sont les ingrédients ?",
+            "content": "<p>Ingrédients naturels : huile de romarin, huile d’avocat, huile de coco, huile d’olive, huile de lavande, huile d’amande et huile de ricin.</p>"
           }
         },
         "item_GfARGt": {
           "type": "item",
           "settings": {
-            "title": "Quelle quantité de caféine contient-il?",
-            "content": "<p>Chaque portion contient 100 mg de caféine naturelle issue du Yerba Mate, offrant un regain d’énergie constant sans nervosité ni coup de fatigue comme avec le café.</p>"
+            "title": "Puis-je utiliser d'autres produits en même temps ?",
+            "content": "<p>Oui, tout à fait !<br/><em>L'élixir de pousse</em> Nomad peut être utilisé en complément de n’importe quelle routine capillaire que vous suivez déjà.</p>"
           }
         },
         "item_tAWMpL": {
           "type": "item",
           "settings": {
-            "title": "Puis-je en boire tous les jours?",
-            "content": "<p>Oui ! Le Yerba Mate est conçu pour une consommation quotidienne et peut se boire le matin pour un coup de boost, l’après-midi pour retrouver de l’énergie, ou avant l’entraînement.</p>"
+            "title": "Quels résultats puis-je attendre et à quelle vitesse ?",
+            "content": "<p>Avec l’élixir de pousse Nomad, vous pouvez commencer à voir des résultats dès 4 semaines et profiter d’une plus grande longueur dès la 8ᵉ semaine.</p><p>Cependant, chaque personne est différente, alors soyez patient(e) avec vous-même. Pensez à prendre des photos de votre progression au jour 1, au jour 30 et au jour 60 pour bien visualiser les changements.</p><p>Le plus important à retenir, c’est que toutes les bonnes choses demandent du temps ! Faire pousser ses cheveux ne se fait pas du jour au lendemain, et il faut être régulier(e) dans l’application. Patience et constance sont les clés.</p>"
           }
         },
         "item_kjEDPn": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça facilite la digestion?",
-            "content": "<p>Oui ! Nomad Zen Fit Yerba Mate contient un mélange de probiotiques et prébiotiques qui soutient la santé intestinale, améliore la digestion et réduit les ballonnements, ce qui le distingue des boissons énergétiques classiques.</p>"
+            "title": "Comment appliquer ?",
+            "content": "<p> Comment utiliser ton élixir capillaire NOMAD :</p><p><strong>1. Applique quelques gouttes</strong><br/><br/>Directement sur ton cuir chevelu, surtout là où tu vois de la chute ou des zones clairsemées. Pas besoin de te laver les cheveux avant.</p><p><strong>2. Masse doucement</strong><br/><br/>Avec tes doigts ou un masseur de cuir chevelu. Laisse poser au moins 30 min – ou garde-la toute la nuit si tu l’appliques le soir. Tu peux aussi la laisser sans rinçage et coiffer tes cheveux normalement.</p><p><strong>3. Utilise chaque jour</strong><br/><br/>Une fois par jour (ou matin et soir pour aller plus vite). Les premiers résultats peuvent apparaître dès <strong>8 semaines</strong> d’utilisation régulière.</p><p>✅ <strong>Compatible avec toutes les routines capillaires</strong><br/><br/>Tu n’as rien à changer à tes habitudes. NOMAD s’adapte à toi.</p>"
           }
         },
         "item_xAQBXt": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps avant de ressentir les effets?",
-            "content": "<p>La plupart des utilisateurs ressentent un regain d’énergie entre 15 et 30 minutes après avoir bu le Yerba Mate, avec des effets qui durent plusieurs heures sans chute d’énergie.</p>"
+            "title": "À quelle fréquence dois-je l’utiliser ?",
+            "content": "<p>Utilisez l’élixir dans votre routine hebdomadaire, au moins 30 minutes avant chaque lavage.</p><p>Pour des résultats rapides, l’utilisation quotidienne est recommandée, mais une application moins fréquente aide aussi à stimuler la croissance.</p><p>Si vous arrêtez, vos cheveux ne tomberont pas, mais la pousse ralentira et reviendra à son rythme normal.</p><p>Les meilleurs résultats s’obtiennent avec une utilisation régulière sur le long terme.</p>"
           }
         }
       },
@@ -226,7 +226,7 @@
         "support_hours": "",
         "answer_time": "",
         "button_text": "Acheter maintenant",
-        "button_url": "shopify://products/nature-zen-fit",
+        "button_url": "shopify://products/nomad-elixir",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
