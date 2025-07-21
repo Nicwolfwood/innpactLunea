@@ -16,23 +16,8 @@
       "blocks": {
         "message_MiLbtm": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "🎁 -50% FÊTE DES MERES : DERNIERS JOURS POUR BRILLER",
-            "url": ""
-          }
-        },
-        "message_68XKDN": {
-          "type": "message",
-          "settings": {
-            "text": "🎁2 ACHETES = 1 OFFERT",
-            "url": ""
-          }
-        },
-        "message_Fdh93Q": {
-          "type": "message",
-          "settings": {
-            "text": "🎁3 ACHETES = 2 OFFERTS",
+            "text": "OFFRE D'ÉTÉ 1 ACHETÉ = 1 OFFERT ",
             "url": ""
           }
         },
@@ -53,8 +38,6 @@
       },
       "block_order": [
         "message_MiLbtm",
-        "message_68XKDN",
-        "message_Fdh93Q",
         "message_yLm7XN",
         "message_mXEV8D"
       ],
@@ -65,9 +48,9 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#fed58e",
+        "background": "#e696ae",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": "#ffffff"
       }
     },
     "header": {
@@ -75,7 +58,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/NOMAD..png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
