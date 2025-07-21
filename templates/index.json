@@ -689,6 +689,68 @@
         "text_color": ""
       }
     },
+    "multi_column_JqTEFK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_wDkk9F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/soutif21.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FJU7tX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/soutifavis22.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_y9axtK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_soutifavis22.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_wDkk9F",
+        "item_FJU7tX",
+        "item_y9axtK"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Adoré par 40,000+ femmes",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "feature17_kgJ7Vp": {
       "type": "Feature17",
       "blocks": {
@@ -893,6 +955,7 @@
     "rich_text_mcydey",
     "media_with_text_deRMWz",
     "rich_text_zgYXeW",
+    "multi_column_JqTEFK",
     "feature17_kgJ7Vp",
     "faq_MKCBxY",
     "custom_liquid_jJ3XG3"
