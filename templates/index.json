@@ -574,82 +574,76 @@
         "spacing": "small"
       }
     },
+    "rich_text_zgYXeW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FbeTCN": {
+          "type": "heading",
+          "settings": {
+            "text": "Des milliers de femmes satisfaites ont noté notre produit :",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FbeTCN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "feature17_kgJ7Vp": {
       "type": "Feature17",
       "blocks": {
-        "heading_h8KF8C": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h2>Results</h2>",
-            "heading_custom": false,
-            "heading_font": "josefin_sans_n4",
-            "heading_size": 28,
-            "heading_size_mobile": 18,
-            "heading_height": 130,
-            "heading_mt": 0,
-            "heading_mt_mobile": 0,
-            "heading_align": "left",
-            "heading_align_mobile": "left",
-            "heading_color": "#000000"
-          }
-        },
-        "text_Crmf3y": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 16,
-            "text_size_mobile": 15,
-            "text_height": 150,
-            "text_mt": 24,
-            "text_mt_mobile": 24,
-            "text_color": "#000000"
-          }
-        },
         "item_L8ybCM": {
           "type": "item",
           "settings": {
-            "percent": 90,
-            "text": "Noticed that this product has significantly improved their life."
+            "percent": 97,
+            "text": "ont constaté que leur poitrine paraissait parfaitement sculptée et plus harmonieuse dans leurs vêtements"
           }
         },
         "item_bKnzX3": {
           "type": "item",
           "settings": {
-            "percent": 90,
-            "text": "Noticed that this product has significantly improved their life."
+            "percent": 95,
+            "text": "ont déclaré que le soutien-gorge offrait un maintien parfait dans un confort absolu"
           }
         },
         "item_R9fpPj": {
           "type": "item",
           "settings": {
-            "percent": 90,
-            "text": "Noticed that this product has significantly improved their life."
+            "percent": 93,
+            "text": "ont ressenti un soulagement immédiat des épaules et une posture naturellement redressée"
           }
         }
       },
       "block_order": [
-        "heading_h8KF8C",
-        "text_Crmf3y",
         "item_L8ybCM",
         "item_bKnzX3",
         "item_R9fpPj"
       ],
       "name": "SS - Feature #17",
       "settings": {
-        "body_gap": 64,
-        "body_gap_mobile": 32,
+        "body_gap": 0,
+        "body_gap_mobile": 0,
         "content_horizontal_align": "center",
         "content_horizontal_align_mobile": "center",
-        "heading": "<h2>Results</h2>",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
-        "heading_size": 36,
-        "heading_size_mobile": 28,
-        "heading_height": 130,
-        "items_mt": 16,
-        "items_mt_mobile": 16,
+        "heading_size": 0,
+        "heading_size_mobile": 0,
+        "heading_height": 50,
+        "items_mt": 0,
+        "items_mt_mobile": 0,
         "item_padding_vertical": 10,
         "item_padding_vertical_mobile": 10,
         "item_gap": 16,
@@ -658,16 +652,16 @@
         "circle_size": 70,
         "circle_size_mobile": 70,
         "percent_custom": false,
-        "percent_font": "josefin_sans_n4",
+        "percent_font": "mono",
         "percent_size": 18,
         "percent_size_mobile": 18,
         "percent_height": 130,
         "item_text_custom": false,
-        "item_text_font": "josefin_sans_n4",
+        "item_text_font": "mono",
         "item_text_size": 16,
         "item_text_size_mobile": 16,
         "item_text_height": 150,
-        "bottom_text": "<p>Caption about the results and/or link for their proof.</p>",
+        "bottom_text": "",
         "bottom_text_custom": false,
         "bottom_text_font": "josefin_sans_n4",
         "bottom_text_size": 12,
@@ -677,14 +671,14 @@
         "bottom_text_mt_mobile": 16,
         "bottom_text_align": "left",
         "bottom_text_align_mobile": "left",
-        "item_border_color": "#F3F3F3",
-        "circle_bg_color": "#FFFFFF",
+        "item_border_color": "#f3f3f3",
+        "circle_bg_color": "#ffffff",
         "circle_progress": "#e696ae",
         "percent_color": "#e696ae",
         "item_text_color": "#000000",
         "heading_color": "#000000",
         "bottom_text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#faf8f5",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -708,29 +702,45 @@
         "item_XVGHx7": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Ce soutien-gorge améliorera-t-il ma silhouette sous les vêtements ?",
+            "content": "<p>Oui, il est conçu pour <strong>affiner</strong> votre poitrine en vous donnant une forme naturelle et équilibrée sous vos vêtements, tout en vous offrant un maintien parfait toute la journée.</p>"
           }
         },
         "item_TVfrQW": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-il rembourré ?",
+            "content": "<p><strong>Non</strong>, ce soutien-gorge est <strong>ultra-fin et sans rembourrage</strong>, ce qui permet d'affiner et sculpter la poitrine <strong>tout en préservant son aspect naturel.</strong></p>"
           }
         },
         "item_zDn6QT": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Taille-t-il normalement ?",
+            "content": "<p>Oui ! Il taille <strong>parfaitement juste</strong>, mais si vous hésitez entre deux tailles ou préférez un ajustement plus souple, prendre une taille au-dessus est une bonne option.</p>"
+          }
+        },
+        "item_8H4zzN": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on le porter toute la journée sans gêne ?",
+            "content": "<p>Absolument ! Le <strong>tissu léger et respirant ainsi que les bretelles ultra-douces</strong> en font le compagnon idéal pour un port confortable toute la journée, sans aucune irritation.</p>"
+          }
+        },
+        "item_gEFdJw": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il adapté aux fortes poitrines ?",
+            "content": "<p>Oui ! Il est conçu pour <strong>offrir un maintien ferme et un galbe parfait à toutes les morphologies</strong>, vous garantissant confort et sérénité.</p>"
           }
         }
       },
       "block_order": [
         "item_XVGHx7",
         "item_TVfrQW",
-        "item_zDn6QT"
+        "item_zDn6QT",
+        "item_8H4zzN",
+        "item_gEFdJw"
       ],
       "name": "FAQ",
       "settings": {
@@ -781,6 +791,7 @@
     "rich_text_qdCQ8D",
     "multi_column_QWtRyM",
     "media_with_text_jGYtCW",
+    "rich_text_zgYXeW",
     "feature17_kgJ7Vp",
     "faq_MKCBxY",
     "custom_liquid_jJ3XG3"
