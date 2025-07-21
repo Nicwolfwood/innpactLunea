@@ -469,7 +469,8 @@
         "item_RW7TGD": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "video": "shopify://files/videos/8956c38409d34ca9908576474d3da577.mp4",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -481,7 +482,8 @@
         "item_Mykiby": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "video": "shopify://files/videos/1ef52be661054f5d9bd6f3c3179cd689 (1).mp4",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -493,6 +495,7 @@
         "item_xx4Xqn": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/55602fd62ad448f1bd1eb2bf81bcb0ed (1).mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
