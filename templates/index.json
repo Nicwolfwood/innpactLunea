@@ -521,13 +521,14 @@
         "image_edJaB3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/40a55844c307429ba4cce2afe84d73a6-ezgif.com-optimize_1_1.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
+            "title": "Oubliez les soutiens-gorge qui serrent et font mal",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "link_text": "",
             "link_url": "",
