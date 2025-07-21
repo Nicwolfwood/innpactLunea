@@ -279,6 +279,12 @@
     "featured_product_U8HfUr": {
       "type": "featured-product",
       "blocks": {
+        "liquid_jCW9x4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; width: 100%;\">\n  <div style=\"border: 2px solid #E696AE; padding: 5px 15px; text-align: center; background-color: transparent; display: inline-block; margin: 10px 0;\">\n    <span style=\"color: #E696AE; font-weight: bold; font-size: 14px; letter-spacing: 0.5px;\">\n      7X EN RUPTURE DE STOCK | STOCK LIMITÉ\n    </span>\n  </div>\n</div>"
+          }
+        },
         "liquid_jhiMD4": {
           "type": "liquid",
           "settings": {
@@ -336,6 +342,7 @@
         }
       },
       "block_order": [
+        "liquid_jCW9x4",
         "liquid_jhiMD4",
         "title_LpwmFR",
         "liquid_rk7jUg",
