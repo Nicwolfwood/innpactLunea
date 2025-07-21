@@ -178,10 +178,11 @@
         "item_EpreKg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Soutifavis1.webp",
             "column_size": "3",
             "title": "Claire T.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Avant j'évitais certains hauts à cause de ma poitrine. Là je me prends plus la tête, je suis à l'aise et ça se voit.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -190,10 +191,11 @@
         "item_Ec63Tk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Soutifavis2.webp",
             "column_size": "3",
             "title": "Axelle P.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Franchement j'y croyais pas qu'un minimiseur puisse être si confortable. J'étais sceptique au début. Et en plus ça affine vraiment, c'est dingue !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -202,10 +204,11 @@
         "item_9xqDjg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Soutifavis3.webp",
             "column_size": "3",
             "title": "Maeva G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Mes fringues me vont tellement mieux maintenant ! Je pensais que ça allait être galère à porter, mais en fait c'est super agréable.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -214,10 +217,11 @@
         "item_PT9ztV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Soutifavis4.webp",
             "column_size": "3",
-            "title": "Emilie F.",
+            "title": "Marie N.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Ma poitrine me gênait grave, surtout vu que je suis asiatique. Depuis Rebl je kiffe, je me sens plus affinée et tellement mieux dans ma peau !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,10 +230,11 @@
         "item_U88mhT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Soutifavis5_1.webp",
             "column_size": "3",
             "title": "Charlotte W.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"C'est ouf comme je suis plus à l'aise dans mes fringues ! Plus de regards gênants, je me sens plus classe. Cette discrétion ça me va trop bien.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
