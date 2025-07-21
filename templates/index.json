@@ -663,32 +663,6 @@
         "spacing": "small"
       }
     },
-    "rich_text_zgYXeW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_FbeTCN": {
-          "type": "heading",
-          "settings": {
-            "text": "Des milliers de femmes satisfaites ont noté notre produit :",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_FbeTCN"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_JqTEFK": {
       "type": "multi-column",
       "blocks": {
@@ -746,6 +720,32 @@
         "subheading": "",
         "title": "Adoré par 40,000+ femmes",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_zgYXeW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FbeTCN": {
+          "type": "heading",
+          "settings": {
+            "text": "Des milliers de femmes satisfaites ont noté notre produit :",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FbeTCN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -954,8 +954,8 @@
     "media_with_text_jGYtCW",
     "rich_text_mcydey",
     "media_with_text_deRMWz",
-    "rich_text_zgYXeW",
     "multi_column_JqTEFK",
+    "rich_text_zgYXeW",
     "feature17_kgJ7Vp",
     "faq_MKCBxY",
     "custom_liquid_jJ3XG3"
