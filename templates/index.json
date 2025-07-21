@@ -130,6 +130,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/soutifbenefice.webp",
+        "mobile_image": "shopify://shop_images/soutifbenefice-_1200-x-675-px.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
