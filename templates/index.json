@@ -178,7 +178,7 @@
         "item_EpreKg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Soutifavis1.webp",
+            "image": "shopify://shop_images/Soutifavis1_1.webp",
             "column_size": "3",
             "title": "Claire T.",
             "heading_tag": "h4",
@@ -191,7 +191,7 @@
         "item_Ec63Tk": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Soutifavis2.webp",
+            "image": "shopify://shop_images/Soutifavis2_1.webp",
             "column_size": "3",
             "title": "Axelle P.",
             "heading_tag": "h4",
@@ -204,7 +204,7 @@
         "item_9xqDjg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Soutifavis3.webp",
+            "image": "shopify://shop_images/Soutifavis3_1.webp",
             "column_size": "3",
             "title": "Maeva G.",
             "heading_tag": "h4",
@@ -217,7 +217,7 @@
         "item_PT9ztV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Soutifavis4.webp",
+            "image": "shopify://shop_images/Soutifavis4_1.webp",
             "column_size": "3",
             "title": "Marie N.",
             "heading_tag": "h4",
@@ -242,6 +242,7 @@
         },
         "item_XE9z76": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "column_size": "3",
             "title": "Helene K.",
