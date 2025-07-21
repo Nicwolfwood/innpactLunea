@@ -743,6 +743,13 @@
             "title": "Est-il adapté aux fortes poitrines ?",
             "content": "<p>Oui ! Il est conçu pour <strong>offrir un maintien ferme et un galbe parfait à toutes les morphologies</strong>, vous garantissant confort et sérénité.</p>"
           }
+        },
+        "item_ByF68p": {
+          "type": "item",
+          "settings": {
+            "title": "Entretien de votre soutien-gorge en dentelle",
+            "content": "<p>🧼 <strong>Lavage délicat à la main</strong> Lavez à l'eau froide avec une lessive douce pour préserver la dentelle et l'élasticité. Évitez absolument l'eau de Javel et les adoucissants qui dégradent les fibres.</p><p>🌬️ <strong>Séchage naturel</strong> Épongez délicatement avec une serviette propre, puis laissez sécher à plat à l'air libre. Jamais de sèche-linge ni d'exposition directe au soleil.</p><p>🧺 <strong>Rangement optimal</strong> Pliez soigneusement ou suspendez par le centre pour maintenir la forme. Conservez dans un endroit sec, à l'abri de la lumière.</p><p>🔄 <strong>Durée de vie</strong> Remplacez votre soutien-gorge dès que le maintien diminue ou que la dentelle présente des signes d'usure pour conserver un effet optimal.</p><p>Plus concis, plus clair, et chaque point va à l'essentiel !</p>"
+          }
         }
       },
       "block_order": [
@@ -750,7 +757,8 @@
         "item_TVfrQW",
         "item_zDn6QT",
         "item_8H4zzN",
-        "item_gEFdJw"
+        "item_gEFdJw",
+        "item_ByF68p"
       ],
       "name": "FAQ",
       "settings": {
