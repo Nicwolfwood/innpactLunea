@@ -28,8 +28,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ZZZITBANIERE.png",
-        "mobile_image": "shopify://shop_images/ZZZITT_BANIERE_TEL_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -37,193 +35,68 @@
         "overlay_opacity": 0
       }
     },
-    "testimonials_mTWwYr": {
-      "type": "testimonials",
+    "logo_list_rx6YC4": {
+      "type": "logo-list",
       "blocks": {
-        "testimonial_nFGwz7": {
-          "type": "testimonial",
+        "logo_VYy4Mg": {
+          "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/1000024940.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Inès M.",
-            "title": "Je revois enfin mes baby hair",
-            "content": "<p>J’avais perdu espoir de revoir mes tempes se remplir. Mais après quelques semaines avec Nomad, je vois clairement des baby hair repousser. Ma coiffeuse l’a remarqué avant moi. Et ça, c’est énorme.</p>"
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_1bf42560-9a59-4d98-bdb1-b784fcf42ce4_2.svg",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "testimonial_iYHtaF": {
-          "type": "testimonial",
+        "logo_LCyLYi": {
+          "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/1000024934.jpg",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Camille Y.",
-            "title": "Ma chute a ralenti, pour de vrai",
-            "content": "<p>Chaque lavage était une angoisse… des poignées de cheveux dans la douche. Depuis que j’utilise l’Élixir Nomad tous les soirs, je perds beaucoup moins de cheveux. Et mes racines sont plus denses.</p>"
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "testimonial_TR4LPX": {
-          "type": "testimonial",
+        "logo_RTLfFT": {
+          "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_1.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Sarah M.",
-            "title": "Une vraie différence sur la texture",
-            "content": "<p>Avant, mes cheveux étaient fins, plats, sans vie. Là, je sens qu’ils sont plus forts au toucher, moins cassants. Et même ma brosse me le confirme : il y en a moins dedans, et plus sur ma tête.</p>"
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_TpAWiD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.avif",
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "testimonial_nFGwz7",
-        "testimonial_iYHtaF",
-        "testimonial_TR4LPX"
+        "logo_VYy4Mg",
+        "logo_LCyLYi",
+        "logo_RTLfFT",
+        "logo_TpAWiD"
       ],
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Plus de 100,000 clients satisfaits!",
+        "stack_mobile": true,
+        "title": "Vu sur:",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "3 ACHETES = 2 OFFERTS",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 6,
-        "background": "#fed58e",
-        "background_gradient": "",
-        "text_color": "#1a1a1a",
-        "text_gradient": ""
-      }
-    },
-    "media_with_text_hNVwYW": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_hi4Rjj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ZOUGLOUDANGZIIT.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Ce que disent les dermatologues",
-            "content": "<p>\"L’Élixir Nomad est une formule naturelle que nous recommandons  aux patients souffrant de chute de cheveux ou de perte de densité.<br/><br/>Sa tolérance est excellente, même sur les cuirs chevelus sensibles, et les résultats sont visibles après quelques semaines d’usage régulier.\"</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#faf8f5",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_hi4Rjj"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "faq_xtiDpM": {
-      "type": "faq",
-      "blocks": {
-        "item_pyDdkn": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les ingrédients ?",
-            "content": "<p>Ingrédients naturels : huile de romarin, huile d’avocat, huile de coco, huile d’olive, huile de lavande, huile d’amande et huile de ricin.</p>"
-          }
-        },
-        "item_GfARGt": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je utiliser d'autres produits en même temps ?",
-            "content": "<p>Oui, tout à fait !<br/><em>L'élixir de pousse</em> Nomad peut être utilisé en complément de n’importe quelle routine capillaire que vous suivez déjà.</p>"
-          }
-        },
-        "item_tAWMpL": {
-          "type": "item",
-          "settings": {
-            "title": "Quels résultats puis-je attendre et à quelle vitesse ?",
-            "content": "<p>Avec l’élixir de pousse Nomad, vous pouvez commencer à voir des résultats dès 4 semaines et profiter d’une plus grande longueur dès la 8ᵉ semaine.</p><p>Cependant, chaque personne est différente, alors soyez patient(e) avec vous-même. Pensez à prendre des photos de votre progression au jour 1, au jour 30 et au jour 60 pour bien visualiser les changements.</p><p>Le plus important à retenir, c’est que toutes les bonnes choses demandent du temps ! Faire pousser ses cheveux ne se fait pas du jour au lendemain, et il faut être régulier(e) dans l’application. Patience et constance sont les clés.</p>"
-          }
-        },
-        "item_kjEDPn": {
-          "type": "item",
-          "settings": {
-            "title": "Comment appliquer ?",
-            "content": "<p> Comment utiliser ton élixir capillaire NOMAD :</p><p><strong>1. Applique quelques gouttes</strong><br/><br/>Directement sur ton cuir chevelu, surtout là où tu vois de la chute ou des zones clairsemées. Pas besoin de te laver les cheveux avant.</p><p><strong>2. Masse doucement</strong><br/><br/>Avec tes doigts ou un masseur de cuir chevelu. Laisse poser au moins 30 min – ou garde-la toute la nuit si tu l’appliques le soir. Tu peux aussi la laisser sans rinçage et coiffer tes cheveux normalement.</p><p><strong>3. Utilise chaque jour</strong><br/><br/>Une fois par jour (ou matin et soir pour aller plus vite). Les premiers résultats peuvent apparaître dès <strong>8 semaines</strong> d’utilisation régulière.</p><p>✅ <strong>Compatible avec toutes les routines capillaires</strong><br/><br/>Tu n’as rien à changer à tes habitudes. NOMAD s’adapte à toi.</p>"
-          }
-        },
-        "item_xAQBXt": {
-          "type": "item",
-          "settings": {
-            "title": "À quelle fréquence dois-je l’utiliser ?",
-            "content": "<p>Utilisez l’élixir dans votre routine hebdomadaire, au moins 30 minutes avant chaque lavage.</p><p>Pour des résultats rapides, l’utilisation quotidienne est recommandée, mais une application moins fréquente aide aussi à stimuler la croissance.</p><p>Si vous arrêtez, vos cheveux ne tomberont pas, mais la pousse ralentira et reviendra à son rythme normal.</p><p>Les meilleurs résultats s’obtiennent avec une utilisation régulière sur le long terme.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_pyDdkn",
-        "item_GfARGt",
-        "item_tAWMpL",
-        "item_kjEDPn",
-        "item_xAQBXt"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQs",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "Acheter maintenant",
-        "button_url": "shopify://products/nomad-elixir",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     }
   },
   "order": [
     "image_with_text_overlay_aMReqK",
-    "testimonials_mTWwYr",
-    "scrolling-text",
-    "media_with_text_hNVwYW",
-    "faq_xtiDpM"
+    "logo_list_rx6YC4"
   ]
 }
