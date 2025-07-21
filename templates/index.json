@@ -370,24 +370,40 @@
         "tab_nECVU7": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Ce qui va vous faire craquer",
+            "content": "<p><strong>Libérez vos complexes :</strong> Retrouvez confiance avec notre soutien-gorge minimiseur ! Matières extensibles et respirantes qui affinent délicatement votre poitrine pour une silhouette naturelle qui booste votre assurance.</p><p><strong>Parfait sous tout :</strong> Ajustement lisse—aucune marque, juste une silhouette sculptée sous n'importe quelle tenue. Il sublime toutes les morphologies, sans effort.</p><p><strong>Confort sur mesure :</strong> Bretelles ajustables pour le maintien parfait. L'armature soutient sans pincer, couverture intégrale pour un confort toute la journée.</p><p><strong>Votre allié quotidien :</strong> Le soutien-gorge qui vous épouse parfaitement—soutien idéal, style impeccable, si agréable qu'il devient votre compagnon confiance.</p>",
             "page": ""
           }
         },
         "tab_7Uwrwj": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Ce soutien-gorge va-t-il vraiment affiner ma poitrine ?",
+            "content": "<p>Absolument ! Il redistribue intelligemment votre poitrine pour une silhouette plus fine et harmonieuse, sans jamais aplatir ou gêner.</p>",
             "page": ""
           }
         },
         "tab_4Fx7kc": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Avec ou sans armatures ?",
+            "content": "<p><strong>Oui, il a des armatures—mais pas celles que vous connaissez !</strong></p><p>Fini les armatures rigides qui marquent et font mal. Ici, elles sont ultra-légères et flexibles, conçues pour épouser vos courbes en douceur.</p><p><strong>Résultat :</strong> Un maintien parfait sans compression, sans gêne, sans cette sensation d'étouffement. Vous profitez du soutien nécessaire avec l'impression de ne rien porter.</p><p><strong>La preuve ?</strong> Nos clientes oublient qu'elles le portent !</p><p>Ou version encore plus courte :</p><p><strong>Oui, mais des armatures révolutionnaires !</strong></p><p>Ultra-légères et flexibles, elles épousent vos courbes sans jamais marquer ou gêner. Maintien optimal, sensation zéro.</p><p><strong>Nos clientes l'oublient littéralement !</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_zYrcYE": {
+          "type": "tab",
+          "settings": {
+            "title": "Confortable et maintenu ?",
+            "content": "<p><strong>J'ai du mal à m'habiller à cause de ma forte poitrine, ce soutien-gorge peut-il m'aider ?</strong></p><p><strong>Absolument !</strong> Le soutien-gorge minimiseur Rebl <strong>redistribue intelligemment</strong> votre volume pour une silhouette plus équilibrée et naturelle.</p><p><strong>Résultat concret :</strong> Vos robes et tops ajustés <strong>tombent parfaitement</strong>, sans tirer ni bâiller. Vous retrouvez enfin le plaisir de porter ce qui vous plaît.</p><p><strong>Plus besoin de vous limiter</strong> — faites votre shopping librement, choisissez vos vêtements par envie, pas par contrainte.</p>",
+            "page": ""
+          }
+        },
+        "tab_QzjQiA": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez gratuitement pendant 30 jours",
+            "content": "<p>Notre engagement envers votre satisfaction se reflète dans nos produits, soutenus par une garantie de <strong>remboursement à 100 % pendant 30 jours</strong>.</p><p>Si, après cette période initiale, vous n’êtes pas entièrement satisfait(e), nous procéderons au remboursement de la totalité du montant que vous avez payé.</p>",
             "page": ""
           }
         }
@@ -395,15 +411,17 @@
       "block_order": [
         "tab_nECVU7",
         "tab_7Uwrwj",
-        "tab_4Fx7kc"
+        "tab_4Fx7kc",
+        "tab_zYrcYE",
+        "tab_QzjQiA"
       ],
       "name": "Tabs",
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
-        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "left",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
