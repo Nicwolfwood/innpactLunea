@@ -297,6 +297,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_EiM6iV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- CODE CUSTOM LIQUID - REDIRECTION VERS PAGE -->\n\n<div class=\"size-guide-button-container\" style=\"margin: 10px 0; text-align: left;\">\n  <a href=\"https://qyqiet-cd.myshopify.com/pages/guide-taille\" class=\"size-guide-btn\">GUIDE DES TAILLES\n  </a>\n</div>\n\n<style>\n.size-guide-btn {\n  background: linear-gradient(135deg, #E696AE, #d182a0);\n  color: white !important;\n  border: none;\n  padding: 4px 15px;\n  border-radius: 4px;\n  font-size: 9px;\n  font-weight: bold;\n  letter-spacing: 0.2px;\n  cursor: pointer;\n  transition: all 0.3s ease;\n  box-shadow: 0 1px 4px rgba(230, 150, 174, 0.3);\n  text-transform: uppercase;\n  text-decoration: none !important;\n  display: inline-block;\n}\n\n.size-guide-btn:hover {\n  transform: translateY(-2px);\n  box-shadow: 0 6px 20px rgba(230, 150, 174, 0.6);\n  background: linear-gradient(135deg, #d182a0, #c4749d);\n  color: white !important;\n  text-decoration: none !important;\n}\n\n.size-guide-btn:active {\n  transform: translateY(0);\n  color: white !important;\n}\n\n.size-guide-btn:visited {\n  color: white !important;\n}\n</style>"
+          }
+        },
         "liquid_rk7jUg": {
           "type": "liquid",
           "settings": {
@@ -337,7 +343,7 @@
         "liquid_6jpqwR": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"\n  margin-top: 16px;\n  padding: 12px;\n  border: 1px solid #eee;\n  border-radius: 12px;\n  background-color: #f9f9f9;\n  display: flex;\n  align-items: flex-start;\n  gap: 12px;\n  max-width: 100%;\n  box-sizing: border-box;\n  flex-wrap: wrap;\n\">\n  <img \n    src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" \n    alt=\"review\" \n    width=\"48\" \n    height=\"48\" \n    style=\"\n      width: 48px; \n      height: 48px; \n      border-radius: 50%; \n      object-fit: cover; \n      flex-shrink: 0;\n    \">\n\n  <div style=\"flex: 1; min-width: 0;\">\n    <div style=\"display: flex; align-items: center; gap: 4px; margin-bottom: 6px; flex-wrap: nowrap; font-size: 13px; color: #1A1A1A;\">\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <svg width=\"12\" height=\"12\" fill=\"#FFD700\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431L24 9.748l-6 5.847L19.336 24 12 20.01 4.664 24 6 15.595 0 9.748l8.332-1.73z\"/></svg>\n      <span style=\"margin-left: 6px;\">4.7/5 <strong>basé sur 1 498 avis</strong></span>\n    </div>\n\n    <div style=\"\n      font-size: 15px; \n      font-weight: 500; \n      color: #1A1A1A; \n      line-height: 1.4;\n    \">\n      “Avec mes patientes, j'observe une posture redressée, des douleurs cervicales soulagées... et surtout, un bien-être retrouvé en quelques jours seulement.”\n    </div>\n\n    <div style=\"\n      font-size: 13px; \n      color: #1A1A1A; \n      margin-top: 8px;\n      display: flex;\n      align-items: center;\n      gap: 6px;\n    \">\n      <img \n        src=\"https://cdn.shopify.com/s/files/1/0943/4962/3631/files/telechargement.svg?v=1749211187\" \n        alt=\"verified badge\" \n        width=\"16\" \n        height=\"16\" \n        style=\"width: 16px; height: 16px;\"\n      />\n      <span><strong>Sophie Lemoine</strong>   </span>\n    </div>\n    <div style=\"font-size: 12px; color: #555; margin-left: 22px;\"> Kinésithérapeute\n      \n    </div>\n  </div>\n</div>"
+            "liquid": "<!-- CODE CUSTOM LIQUID - REDIRECTION VERS PAGE -->\n\n<div class=\"size-guide-button-container\" style=\"margin: 10px 0; text-align: left;\">\n  <a href=\"https://qyqiet-cd.myshopify.com/pages/guide-taille\" class=\"size-guide-btn\">\n    GUIDE TAILLES\n  </a>\n</div>\n\n<style>\n.size-guide-btn {\n  background: linear-gradient(135deg, #E696AE, #d182a0);\n  color: white !important;\n  border: none;\n  padding: 4px 15px;\n  border-radius: 4px;\n  font-size: 9px;\n  font-weight: bold;\n  letter-spacing: 0.2px;\n  cursor: pointer;\n  transition: all 0.3s ease;\n  box-shadow: 0 1px 4px rgba(230, 150, 174, 0.3);\n  text-transform: uppercase;\n  text-decoration: none !important;\n  display: inline-block;\n}\n\n.size-guide-btn:hover {\n  transform: translateY(-2px);\n  box-shadow: 0 6px 20px rgba(230, 150, 174, 0.6);\n  background: linear-gradient(135deg, #d182a0, #c4749d);\n  color: white !important;\n  text-decoration: none !important;\n}\n\n.size-guide-btn:active {\n  transform: translateY(0);\n  color: white !important;\n}\n\n.size-guide-btn:visited {\n  color: white !important;\n}\n</style>"
           }
         }
       },
@@ -345,6 +351,7 @@
         "liquid_jCW9x4",
         "liquid_jhiMD4",
         "title_LpwmFR",
+        "liquid_EiM6iV",
         "liquid_rk7jUg",
         "image_8DiY3d",
         "buy_buttons_hJtYpY",
