@@ -1,0 +1,254 @@
+<style>
+.size-guide-container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: white;
+  border-radius: 15px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.size-guide-title {
+  text-align: center;
+  font-size: 28px;
+  color: #E696AE;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.size-guide-subtitle {
+  text-align: center;
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.calculator-section {
+  background: #fef7fa;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  border: 2px solid #E696AE;
+}
+
+.calc-title {
+  color: #E696AE;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.input-group {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.input-container {
+  flex: 1;
+  min-width: 200px;
+}
+
+.input-container label {
+  display: block;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.input-container input, .input-container select {
+  width: 100%;
+  padding: 12px 15px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.calculate-btn {
+  width: 100%;
+  background: #E696AE;
+  color: white;
+  padding: 15px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.calculate-btn:hover {
+  background: #d182a0;
+}
+
+.result-section {
+  background: #e8f5e8;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+  border-left: 5px solid #4CAF50;
+  display: none;
+}
+
+.result-section.show {
+  display: block;
+}
+
+.size-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  margin-top: 30px;
+}
+
+.size-table th {
+  background: #E696AE;
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.size-table td {
+  padding: 12px 10px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+
+.size-table tr:nth-child(even) {
+  background: #fafafa;
+}
+
+@media (max-width: 768px) {
+  .size-guide-container { padding: 20px; }
+  .input-group { flex-direction: column; }
+  .size-table th, .size-table td { padding: 8px 5px; font-size: 14px; }
+}
+</style>
+
+<div class="size-guide-container">
+  <h1 class="size-guide-title">🌸 Guide des Tailles REBL</h1>
+  <p class="size-guide-subtitle">Trouvez votre taille parfaite en quelques secondes</p>
+  
+  <div class="calculator-section">
+    <h2 class="calc-title">📏 Calculateur de Taille</h2>
+    <form id="sizeCalculator">
+      <div class="input-group">
+        <div class="input-container">
+          <label for="underbust">Tour de bas de poitrine (cm)</label>
+          <input type="number" id="underbust" placeholder="Ex: 75" required>
+        </div>
+        <div class="input-container">
+          <label for="currentCup">Votre bonnet actuel</label>
+          <select id="currentCup" required>
+            <option value="">Sélectionnez...</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+            <option value="G">G</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="calculate-btn">🧮 Calculer Ma Taille</button>
+    </form>
+  </div>
+  
+  <div id="resultSection" class="result-section">
+    <div style="color: #2e7d32; font-size: 22px; font-weight: bold; margin-bottom: 10px;" id="resultTitle"></div>
+    <div style="color: #555; line-height: 1.6;" id="resultText"></div>
+  </div>
+  
+  <table class="size-table">
+    <thead>
+      <tr>
+        <th>Tour de bas de poitrine/Bonnet</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+        <th>G</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>70-75</strong></td>
+        <td>80B</td><td>80C</td><td>80D</td><td>80E</td><td>80F</td><td>80G</td>
+      </tr>
+      <tr>
+        <td><strong>75-80</strong></td>
+        <td>85B</td><td>85C</td><td>85D</td><td>85E</td><td>85F</td><td>85G</td>
+      </tr>
+      <tr>
+        <td><strong>80-85</strong></td>
+        <td>90B</td><td>90C</td><td>90D</td><td>90E</td><td>90F</td><td>90G</td>
+      </tr>
+      <tr>
+        <td><strong>85-90</strong></td>
+        <td>95B</td><td>95C</td><td>95D</td><td>95E</td><td>95F</td><td>95G</td>
+      </tr>
+      <tr>
+        <td><strong>90-95</strong></td>
+        <td>100B</td><td>100C</td><td>100D</td><td>100E</td><td>100F</td><td>100G</td>
+      </tr>
+      <tr>
+        <td><strong>95-100</strong></td>
+        <td>105B</td><td>105C</td><td>105D</td><td>105E</td><td>105F</td><td>105G</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('sizeCalculator').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    const underbust = parseInt(document.getElementById('underbust').value);
+    const currentCup = document.getElementById('currentCup').value;
+    
+    if (!underbust || !currentCup) {
+      alert('Veuillez remplir tous les champs');
+      return;
+    }
+    
+    let bandSize;
+    if (underbust >= 70 && underbust <= 75) bandSize = 80;
+    else if (underbust > 75 && underbust <= 80) bandSize = 85;
+    else if (underbust > 80 && underbust <= 85) bandSize = 90;
+    else if (underbust > 85 && underbust <= 90) bandSize = 95;
+    else if (underbust > 90 && underbust <= 95) bandSize = 100;
+    else if (underbust > 95 && underbust <= 100) bandSize = 105;
+    else {
+      alert('Taille non disponible');
+      return;
+    }
+    
+    const recommendedSize = bandSize + currentCup;
+    
+    document.getElementById('resultTitle').textContent = '✨ Votre taille REBL : ' + recommendedSize;
+    document.getElementById('resultText').innerHTML = 'Parfait ! Avec un tour de dos de <strong>' + underbust + 'cm</strong> et un bonnet <strong>' + currentCup + '</strong>, votre taille recommandée est <strong>' + recommendedSize + '</strong>.';
+    
+    document.getElementById('resultSection').classList.add('show');
+  });
+});
+</script>
+
+{% schema %}
+{
+  "name": "Guide des Tailles",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Guide des Tailles"
+    }
+  ]
+}
+{% endschema %}
