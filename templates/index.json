@@ -297,12 +297,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_EiM6iV": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- CODE CUSTOM LIQUID - REDIRECTION VERS PAGE -->\n\n<div class=\"size-guide-button-container\" style=\"margin: 10px 0; text-align: left;\">\n  <a href=\"https://qyqiet-cd.myshopify.com/pages/guide-taille\" class=\"size-guide-btn\">GUIDE DES TAILLES\n  </a>\n</div>\n\n<style>\n.size-guide-btn {\n  background: linear-gradient(135deg, #E696AE, #d182a0);\n  color: white !important;\n  border: none;\n  padding: 4px 15px;\n  border-radius: 4px;\n  font-size: 9px;\n  font-weight: bold;\n  letter-spacing: 0.2px;\n  cursor: pointer;\n  transition: all 0.3s ease;\n  box-shadow: 0 1px 4px rgba(230, 150, 174, 0.3);\n  text-transform: uppercase;\n  text-decoration: none !important;\n  display: inline-block;\n}\n\n.size-guide-btn:hover {\n  transform: translateY(-2px);\n  box-shadow: 0 6px 20px rgba(230, 150, 174, 0.6);\n  background: linear-gradient(135deg, #d182a0, #c4749d);\n  color: white !important;\n  text-decoration: none !important;\n}\n\n.size-guide-btn:active {\n  transform: translateY(0);\n  color: white !important;\n}\n\n.size-guide-btn:visited {\n  color: white !important;\n}\n</style>"
-          }
-        },
         "liquid_rk7jUg": {
           "type": "liquid",
           "settings": {
@@ -351,7 +345,6 @@
         "liquid_jCW9x4",
         "liquid_jhiMD4",
         "title_LpwmFR",
-        "liquid_EiM6iV",
         "liquid_rk7jUg",
         "image_8DiY3d",
         "buy_buttons_hJtYpY",
@@ -381,6 +374,14 @@
     "tabs_9HCbeE": {
       "type": "tabs",
       "blocks": {
+        "tab_zYrcYE": {
+          "type": "tab",
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": "guide-taille"
+          }
+        },
         "tab_nECVU7": {
           "type": "tab",
           "settings": {
@@ -405,14 +406,6 @@
             "page": ""
           }
         },
-        "tab_zYrcYE": {
-          "type": "tab",
-          "settings": {
-            "title": "Confortable et maintenu ?",
-            "content": "<p><strong>J'ai du mal à m'habiller à cause de ma forte poitrine, ce soutien-gorge peut-il m'aider ?</strong></p><p><strong>Absolument !</strong> Le soutien-gorge minimiseur Rebl <strong>redistribue intelligemment</strong> votre volume pour une silhouette plus équilibrée et naturelle.</p><p><strong>Résultat concret :</strong> Vos robes et tops ajustés <strong>tombent parfaitement</strong>, sans tirer ni bâiller. Vous retrouvez enfin le plaisir de porter ce qui vous plaît.</p><p><strong>Plus besoin de vous limiter</strong> — faites votre shopping librement, choisissez vos vêtements par envie, pas par contrainte.</p>",
-            "page": ""
-          }
-        },
         "tab_QzjQiA": {
           "type": "tab",
           "settings": {
@@ -423,10 +416,10 @@
         }
       },
       "block_order": [
+        "tab_zYrcYE",
         "tab_nECVU7",
         "tab_7Uwrwj",
         "tab_4Fx7kc",
-        "tab_zYrcYE",
         "tab_QzjQiA"
       ],
       "name": "Tabs",
@@ -885,6 +878,13 @@
             "content": "<p>Absolument ! Le <strong>tissu léger et respirant ainsi que les bretelles ultra-douces</strong> en font le compagnon idéal pour un port confortable toute la journée, sans aucune irritation.</p>"
           }
         },
+        "item_k7bexz": {
+          "type": "item",
+          "settings": {
+            "title": "Confortable et maintenu ?",
+            "content": "<p><strong>J'ai du mal à m'habiller à cause de ma forte poitrine, ce soutien-gorge peut-il m'aider ?</strong></p><p><strong>Absolument !</strong> Le soutien-gorge minimiseur Rebl <strong>redistribue intelligemment</strong> votre volume pour une silhouette plus équilibrée et naturelle.</p><p><strong>Résultat concret :</strong> Vos robes et tops ajustés <strong>tombent parfaitement</strong>, sans tirer ni bâiller. Vous retrouvez enfin le plaisir de porter ce qui vous plaît.</p><p><strong>Plus besoin de vous limiter</strong> — faites votre shopping librement, choisissez vos vêtements par envie, pas par contrainte.</p>"
+          }
+        },
         "item_gEFdJw": {
           "type": "item",
           "settings": {
@@ -905,6 +905,7 @@
         "item_TVfrQW",
         "item_zDn6QT",
         "item_8H4zzN",
+        "item_k7bexz",
         "item_gEFdJw",
         "item_ByF68p"
       ],
