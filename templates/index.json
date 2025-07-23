@@ -306,8 +306,9 @@
         "image_8DiY3d": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/1ACHETE_1_OFFERT.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "buy_buttons_hJtYpY": {
